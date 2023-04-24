@@ -1,0 +1,2101 @@
+,Unnamed: 0,id_left,brand_left,title_left,description_left,price_left,priceCurrency_left,specTableContent_left,cluster_id_left,id_right,brand_right,title_right,description_right,price_right,priceCurrency_right,specTableContent_right,cluster_id_right,pair_id,label,is_hard_negative,roberta-base_logits,roberta-base_prediction,rsupcon-base_logits,rsupcon-base_prediction,chatbot_response,chatbot_response_raw,chatbot_question
+0,1840,98621092,,TAG Heuer Monaco Chronograph Calibre 11 Automatic,"Design inspired by the watch worn by Steve McQueen in the 1970 film 'Le Mans' Series: Monaco Chronograph, Model: Calibre 11, Gender: Men's Watches, Movement: Automatic, Features: , Dial: Blue, Strap: Black Perforated Leather, Clasp:Deployment/ Folding,Case: Brushed & Polished Stainless Steel/ Glass Back, Case Size: 39mm, Case Thickness: mm, Water Resistant:100m","£4,195.00",,,556904,2004031,,TAG Heuer Men's Special Edition Heuer Monaco Watch,"TAG Heuer Monaco Stainless Steel Blue Mens Watch CAW211P.FC6356 is befittingly iconic, dare to be non-traditional with this innovative timepiece. Defying the traditional looking round shaped wristwatch TAG Heuer introduced the Monaco collection featuring a contrasting yet distinctive square water resistant case. This pioneering collection presented the worlds first square automatic chronograph. Timepieces in this series encapsulates the power and speed of a motor racing car. Indeed the Monaco still remains a truly remarkable collection and audacious in its own right.",5250,GBP,,556904,98621092#2004031,1,False,"[3.7184028625, -4.1772656441]",0,[1.0],1,1 (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1 ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330043,
+  ""id"": ""chatcmpl-78nBTvlCCahA8BvWC1eoOcwIYD6OD"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 76,
+    ""total_tokens"": 78
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': ""product 1: TAG Heuer Monaco Chronograph Calibre 11 Automatic, product 2: TAG Heuer Men's Special Edition Heuer Monaco Watch""}]"
+1,710,47887901,,"Apple AirPods (2nd Generation) Bluetooth Earbuds w/ Wireless Charging Case, White (MRXJ2AM/A)","Staples.com: Apple AirPods MRXJ2AM/A In the Ear Bluetooth Earbuds, White with fast and free shipping on select orders.",199,USD,,1994510,49097388,,Apple In-Ear Wireless Airpods with Charging Case - White-MV7N2ZM/A,"Top features:- Completely wireless headphones sense when they're inside your ears- Tap either AirPod to activate Siri for hands-free control- Five hours listening on a single charge, or 24 hours via the charging case- Seamlessly switch listening between Apple devicesWireless headphonesThe AppleAirPods Wireless Bluetooth Headphonesprovide the same great audio performance of Apple EarPods without any wires to tangle you up.Apple AirPods sense when they are inside your ears, and pause audio when they're not so you don't have to worry about missing out on any of your favourite music when you take them out.Tap to activate SiriAirPodsare not just wireless,",1.79E2,EUR,,767259,47887901#49097388,0,True,"[-1.7439045906000001, 1.717010498]",1,[0.0],0,"No,","{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""No,"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330043,
+  ""id"": ""chatcmpl-78nBTEFnY6oUuoMAernWpK1zv8Qra"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 102,
+    ""total_tokens"": 104
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Apple AirPods (2nd Generation) Bluetooth Earbuds w/ Wireless Charging Case, White (MRXJ2AM/A), product 2: Apple In-Ear Wireless Airpods with Charging Case - White-MV7N2ZM/A'}]"
+2,2065,60950283,,Fujifilm Instax Square Instant Film - 10 Photos,The Fujifilm Instax Square Instant Film is for use with the Fuji Instax Square SQ10 Camera. This pack of Fuji Instax Square film contains 10 photos and will produce fantastic mini images at 62x62mm on a film size of 86x72mm. You can also write on the white border with non water based pens.,11.99,GBP,,1457721,25935656,,Fujifilm Instax Square Film Black Frame 10 Shots,This pack of 10 colour instant film in square format is designed for the Fujifilm Instax Square SQ6 instant camera. The film boasts the same professional high quality found in all Instax,,,,1118780,60950283#25935656,0,True,"[-2.1758391857, 2.2021055222]",1,[0.0],0,"Yes,","{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""Yes,"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330044,
+  ""id"": ""chatcmpl-78nBUP4Pzzq8NgSmDMlGH3fxiZMmH"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 78,
+    ""total_tokens"": 80
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Fujifilm Instax Square Instant Film - 10 Photos, product 2: Fujifilm Instax Square Film Black Frame 10 Shots'}]"
+3,3869,435472,,Evans EMAD Clear Bass Drum Head 20 Inch,"20"" drum head made using a single ply of 10mil film. Externally Mounted Adjustable Damping system allows the player to adjust attack and focus. Very versatile head for all music genres; a true working drummer's choice. Also available in a coated version. All Evans drum heads are designed, engineered and manufactured in the USA. .",46.06,USD,,800940,55131100,Evans,Evans Evans EMAD Clear Bass,Evans EMAD Clear Bass,67.99,CAD,,800940,435472#55131100,1,False,"[3.2268047333, -3.6520571709]",0,[1.0],1,The two,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""The two"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330045,
+  ""id"": ""chatcmpl-78nBVeVsq8c9wCTNX60qST7lRsgvN"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 70,
+    ""total_tokens"": 72
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Evans EMAD Clear Bass Drum Head 20 Inch, product 2: Evans Evans EMAD Clear Bass'}]"
+4,1787,88641225,,"8GB (2x4GB) HyperX Fury Blue DDR3, 1600MHz, CL10, 1.5V, 240-pin DIMM, kit of 2","8GB (2x4GB) HyperX Fury Blue DDR3, 1600MHz, CL10, 1.5V, 240-pin DIMM, kit of 2",74.99,CAD,,288081,86250508,,DDR3 HyperX Fury Blue - 4 Go 1600 MHz - CAS 10,Mémoire DDR3 - PC-12800 - Low-Profile,28.99,EUR,,836466,88641225#86250508,0,True,"[-2.2421159744, 2.2641017437]",1,[0.0],0,"Yes,","{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""Yes,"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330045,
+  ""id"": ""chatcmpl-78nBVQI4bDCzjuU8xFMOFwRYJ13dG"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 112,
+    ""total_tokens"": 114
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: 8GB (2x4GB) HyperX Fury Blue DDR3, 1600MHz, CL10, 1.5V, 240-pin DIMM, kit of 2, product 2: DDR3 HyperX Fury Blue - 4 Go 1600 MHz - CAS 10'}]"
+5,2038,13519118,,"3M - Privacy Filter 19\""\"" WideS","3M Privacy Filter 19\""\"" WideS (PF319W) - Type: Andet tilbehør",2020.00,DKK,,3303908,1533183,,3M - PF19.0 BLACK PRIVACY FILTER FRAMELESS FITS 21IN NOTEBOOK LCD,3M PF19.0 BLACK PRIVACY FILTER FRAMELESS FITS 21IN NOTEBOOK LCD(PF19.0) - Type: Annet Tilbehør,1173.75,NOK,,125058,13519118#1533183,0,True,"[-4.3640899658, 4.6543402672]",1,[0.0],0,0 (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""0 ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330046,
+  ""id"": ""chatcmpl-78nBWTyImNQqTCUp9PCtvgXHn8gSZ"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 88,
+    ""total_tokens"": 90
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: 3M - Privacy Filter 19\\""\\"" WideS, product 2: 3M - PF19.0 BLACK PRIVACY FILTER FRAMELESS FITS 21IN NOTEBOOK LCD'}]"
+6,1369,64399529,,Memoria DDR3 1600Mhz Kit 8GB HyperX Kingston (2x4GB),,"73,58 €",EUR,,288081,14965636,,HyperX Fury DDR3 1600MHz 8GB,"2x4GB 1600MHz (PC3-12800) DDR3 CL10, Sort",350.00,DKK,,702149,64399529#14965636,0,True,"[-3.8145561218, 4.0814938545]",1,[0.0],0,"Yes,","{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""Yes,"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330059,
+  ""id"": ""chatcmpl-78nBj0xdE9ABUqE0L9q8pw9BRfix9"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 87,
+    ""total_tokens"": 89
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Memoria DDR3 1600Mhz Kit 8GB HyperX Kingston (2x4GB), product 2: HyperX Fury DDR3 1600MHz 8GB'}]"
+7,846,29733439,,"Kingston Canvas Select UHS-I, 64 GB",,2.3E1,EUR,,53163,31525711,KINGSTON,Memoire SDXC KINGSTON 64GB Canvas Select microSDHC (microSD) + Adapter SD,Memoire SDXC KINGSTON 64GB Canvas Select microSDHC (microSD) + Adapter SD,14.99,EUR,,53163,29733439#31525711,1,False,"[3.5289504528, -4.0068006516]",0,[1.0],1,1,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""stop"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330059,
+  ""id"": ""chatcmpl-78nBjmUvJ6nNQmjlJDOmf2zNWjqh5"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 1,
+    ""prompt_tokens"": 86,
+    ""total_tokens"": 87
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Kingston Canvas Select UHS-I, 64 GB, product 2: Memoire SDXC KINGSTON 64GB Canvas Select microSDHC (microSD) + Adapter SD'}]"
+8,1797,734004,,"Monitor 27 XUB2792QSU- IPS,ETE PANEL",,1687.70,PLN,,1439932,52295160,,"iiyama 27' ETE, ULTRA SLIM LINE, 2560x1440 WQHD, IPS, 5ms, FreeSync, 13cm height adj. stand, 350cd/m˛, VGA, HDMI, DisplayPort, Speakers,USB-HUB(2x3.0)","27 '' (68.cm) IPS, 2560 x 1440, 350 cd/m2, 5 ms, DVI, HDMI, DisplayPort",239.916001,GBP,,1439932,734004#52295160,1,False,"[3.4674911499, -3.9434027672000003]",0,[1.0],1,"Yes,","{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""Yes,"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330060,
+  ""id"": ""chatcmpl-78nBkNMpQtvsWSiCBXIxRWWRqJpeI"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 137,
+    ""total_tokens"": 139
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': ""product 1: Monitor 27 XUB2792QSU- IPS,ETE PANEL, product 2: iiyama 27' ETE, ULTRA SLIM LINE, 2560x1440 WQHD, IPS, 5ms, FreeSync, 13cm height adj. stand, 350cd/m˛, VGA, HDMI, DisplayPort, Speakers,USB-HUB(2x3.0)""}]"
+9,29,56989328,,Traveler's Notebook Refill - Grid,"Midori grid white paper great for capturing scale drawings or simply as a guide. Suitable for pencils, ballpoint pens and fountain pens.Grid 5x5mm,64 pagesMD Paper (Saddle Stitched)H210 x W110 x D4mm",7.00,AUD,,2662935,83491918,,Traveler´s Notebook Refill 002 (Grid Notebook) for Regular Size,GridNotebook for Traveler´s Notebook Regular Size.64 pages.Dimensions: 21x11x0.4cm (8x4.5x0.2in. approx.)See all Traveler's Companyproducts.Made in Japan.,6.00,CAD,,2662935,56989328#83491918,1,False,"[0.5102652907, -0.5963104963]",0,[1.0],1,1 (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1 ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330061,
+  ""id"": ""chatcmpl-78nBln7v3tMkH7TQVaBXbdsgDBZDi"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 77,
+    ""total_tokens"": 79
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': ""product 1: Traveler's Notebook Refill - Grid, product 2: Traveler´s Notebook Refill 002 (Grid Notebook) for Regular Size""}]"
+10,1430,79709520,Audemars Piguet,Audemars Piguet Royal Oak Chronograph Black Dial 41mm Steel,This Pre-Owned Timepiece has been authenticated by our licensed and certified pre-owned watch technician. The movement and casing is true to the condition of which you see in the photo.,82499.550001,AED,,31594,393407,Audemars Piguet,Audemars Piguet Royal Oak Chronograph,Audemars Piguet Royal Oak,36560,USD,,607611,79709520#393407,0,True,"[-0.9959249496, 1.0188646317]",1,[0.0],0,Both products,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""Both products"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330061,
+  ""id"": ""chatcmpl-78nBlFJMzbooTaoYoKw12t8j0uPCf"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 78,
+    ""total_tokens"": 80
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Audemars Piguet Royal Oak Chronograph Black Dial 41mm Steel, product 2: Audemars Piguet Royal Oak Chronograph'}]"
+11,3953,25911961,Kingston,Kingston Canvas Select Plus MicroSDXC - 128 GB,"128 GB, microSDXC, Class 10, UHS-I, 3.3 V, SD adapter",24.99,EUR,,27477,40125777,Kingston Technology,Memoire Micro SDHC Kingston Technology Canvas Select,Memoire Micro SDHC Kingston Technology Canvas Select- 128Go MicroSDXC UHS-I Classe 10 mémoire flash,27.99,EUR,,854253,25911961#40125777,0,True,"[-2.8579730988, 2.987704277]",1,[0.0],0,"Yes,","{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""Yes,"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330065,
+  ""id"": ""chatcmpl-78nBpFeGrlgVbtMT4xXAc7eqVnDkI"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 74,
+    ""total_tokens"": 76
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Kingston Canvas Select Plus MicroSDXC - 128 GB, product 2: Memoire Micro SDHC Kingston Technology Canvas Select'}]"
+12,3842,48448790,Corsair,Corsair Air ML140 PRO MAGNETIC 140mm LED blue 4-pin,Corsair Air ML140 PRO MAGNETIC 140mm LED blue 4-pin,0,,,509638,62172007,Corsair,Corsair ML Series ML140 PRO LED Premium Magnetic Levitation,,284,SEK,,387671,48448790#62172007,0,True,"[-4.3622479439, 4.6556429863]",1,[0.0],0,Yes.,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""Yes."",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330073,
+  ""id"": ""chatcmpl-78nBxWvsxmB4EOrztpUTz1TFLfbrW"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 83,
+    ""total_tokens"": 85
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Corsair Air ML140 PRO MAGNETIC 140mm LED blue 4-pin, product 2: Corsair ML Series ML140 PRO LED Premium Magnetic Levitation'}]"
+13,3636,20390207,,Сървър HEWLETT PACKARD HP 900GB 6G SAS 10K rpm SFF (2.5-inch) SC Enterprise 3yr Warranty Hard Drive,Сървър HEWLETT PACKARD HP 900GB 6G SAS 10K rpm SFF (2.5-inch) SC Enterprise 3yr Warranty Hard Drive,890.90,BGN,,603762,83196345,,"HP 900GB 6G SAS 10K 2.5\"" SC Server Hard Disk","HP 900GB 6G SAS 10K 2.5\"" SC Server Hard Disk HP 900GB 6G SAS 10K 2.5\"" SC Server Hard Disk",45200.00,KES,,3775297,20390207#83196345,0,True,"[-3.1521646976, 3.2831292152]",1,[0.0],0,1.,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1."",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330073,
+  ""id"": ""chatcmpl-78nBx2CEzNVuICmP25s0ecZRP99Px"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 114,
+    ""total_tokens"": 116
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Сървър HEWLETT PACKARD HP 900GB 6G SAS 10K rpm SFF (2.5-inch) SC Enterprise 3yr Warranty Hard Drive, product 2: HP 900GB 6G SAS 10K 2.5\\"" SC Server Hard Disk'}]"
+14,4398,63687251,,TP-Link EAP225-Outdoor AC1200 Dual Band Outdoor Access Point,,6000,PHP,,6665678,78212459,,ACCESS POINT TP-LINK EAP EAP225 OUTDOOR - TPN0125,,766.08,BRL,,233795,63687251#78212459,0,True,"[-3.6939213276, 3.945920229]",1,[0.0],0,1 (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1 ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330074,
+  ""id"": ""chatcmpl-78nByihrbpj93lUflP4K8cdE0Yszs"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 88,
+    ""total_tokens"": 90
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: TP-Link EAP225-Outdoor AC1200 Dual Band Outdoor Access Point, product 2: ACCESS POINT TP-LINK EAP EAP225 OUTDOOR - TPN0125'}]"
+15,654,32904975,,"Cartus cerneala Epson T75544, yellow, 4000 pagini, pentru WF-8590DWF, WF-8090DW, WF-8510DWF, WF-8010DW","Cartus cerneala Epson T75544, yellow, 4000 pagini, pentru WF-8590DWF, WF-8090DW, WF-8510DWF, WF-8010DW",315.1261,RON,,2806654,13769345,,EPSON B-300/310N (Yellow),,,,,295197,32904975#13769345,0,True,"[-3.7054343224, 3.9214291573]",1,[0.0],0,0.,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""0."",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330075,
+  ""id"": ""chatcmpl-78nBzlrJoJEbWra28pI2T05LW0wqc"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 110,
+    ""total_tokens"": 112
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Cartus cerneala Epson T75544, yellow, 4000 pagini, pentru WF-8590DWF, WF-8090DW, WF-8510DWF, WF-8010DW, product 2: EPSON B-300/310N (Yellow)'}]"
+16,1974,72054770,,TAG Heuer Automatic Watch WAZ2011.BA0842,"A luxury watch makes a bold statement of style. While many people think watches are simply a practical accessory, a fine timepiece can also add elegance to your look. At Dejaun Jewelers, we are thrilled to offer comprehensive selection of some of the world's most beloved luxury watch brands, including TAG Heuer. We are also proud to be an authorized TAG Heuer retailer in Los Angeles. TAG Heuer's precise timepieces are designed to endure. This Gents watch with model number WAZ2011.BA0842 is part of the ever popular Automatic collection. It features a skillfully crafted Automatic (self winding) movement, Stainless steel",1850.00,USD,,2628369,79959589,,Formula 1 Calibre 5 Automatic Watch,"Watch Dial:Dial Material: Unidirectional turning sandblasted, polished steel & black ceramic bezel with silver shield and numerals / Anthracite sunray dial with minuterie on the flange with a red triangle / Calibre 5Watch Band:Material: fine-brushed 3-row steel bracelet with polished edgesClasp: Fine-brushed steel double safety clasp and “racing suit” extensionMovement:Type: Calibre 5 Automatic WatchDetails: Curved and polished hand-applied indexes, “12” and \""6\"" numerals with luminescent markerWater Resistance:200",1800.00,USD,,2628369,72054770#79959589,1,False,"[3.8154792786, -4.2781147957]",0,[1.0],1,1 (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1 ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330075,
+  ""id"": ""chatcmpl-78nBzZEDcKfa9BfhqQ50l3k5x3cf7"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 76,
+    ""total_tokens"": 78
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: TAG Heuer Automatic Watch WAZ2011.BA0842, product 2: Formula 1 Calibre 5 Automatic Watch'}]"
+17,3977,80988716,,Canon EF 100mm F2.8L Macro IS USM + BONUS,"** For purchase inquires, please call 416-977-9711 or email us at info@adencamera.com. **Canon's newest \""L\"" series lens is its first mid-telephoto macro lens to include Canon's sophisticated Image Stabilization. With the highest quality optics available, combined with near-silent Ultrasonic focusing and life-size close-up capabilities without an adapter, the EF 100mm F2.8L Macro IS USM is simply unrivalled. Main Features Hybrid Optical Image StabilizationUltrasonic Focus MotorFocus Range LimiterDustproof and Moisture Proof SealingTruly Circular DiaphragmMinimum Focus Distance: 12\""EF Mount L-Series LensAperture Range: F2.8-32Life-Size (1:1) Macro MagnificationUltra-Low Dispersion Lens Elements*Bonus - Rollei 67mm 16-layers Multi-Coating Optical Glass, Scratch resistant, water and oil stain","$1,100.00Ends 10/1/2020",,,730377,9566556,,EF 100mm f/2.8L Macro IS USM,,1040,EUR,,852917,80988716#9566556,0,True,"[-1.5418534279, 1.5076878071]",1,[0.0],0,1,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""stop"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330076,
+  ""id"": ""chatcmpl-78nC0DqcpmCR1aW5y2CmDFDvbm6da"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 1,
+    ""prompt_tokens"": 85,
+    ""total_tokens"": 86
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Canon EF 100mm F2.8L Macro IS USM + BONUS, product 2: EF 100mm f/2.8L Macro IS USM'}]"
+18,2120,35392050,,Fujifilm Instax Square Film - 20 Sheets,"The Fujifilm instax Square Film boasts of high-quality professional instant photograph technology in a square format. It is compatible with any instax Square camera or printer including instax SQ6, SQ20 and SHARE SP-3.Pack contains 20 sheetsGuarantees accurate colour and sharpnessIdeal for scrapbooks or photo albumsLong lasting sheet",22,AUD,,1457721,60950283,,Fujifilm Instax Square Instant Film - 10 Photos,The Fujifilm Instax Square Instant Film is for use with the Fuji Instax Square SQ10 Camera. This pack of Fuji Instax Square film contains 10 photos and will produce fantastic mini images at 62x62mm on a film size of 86x72mm. You can also write on the white border with non water based pens.,11.99,GBP,,1457721,35392050#60950283,1,False,"[3.7292327881, -4.1932168007]",0,[1.0],1,0.,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""0."",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330076,
+  ""id"": ""chatcmpl-78nC0EGwB9Ed5dZPCKeg7AU2tyq37"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 77,
+    ""total_tokens"": 79
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Fujifilm Instax Square Film - 20 Sheets, product 2: Fujifilm Instax Square Instant Film - 10 Photos'}]"
+19,4138,42121103,,T1204171704100 Tissot Seastar 1000 Quartz,"The Tissot Seastar 1000 merges style and performance without compromising either. The diving inspiration shapes both the appearance and the functionality of this watch. It maintains its performance to a pressure of 30 bar (300m/1'000ft), combining underwater sports and a preference for a sophisticated Swiss timepiece. The diving theme continues through elements such as a unidirectional bezel, a strap with a divers' safety buckle, plus luminescent hands and markings.Additional Information:Collection: T-SportCase Material: Stainless SteelCrystal: SapphireMovement: QuartzCase Size: 45.5 mmDial:blue gradientAnti-clockwise rotating bezel, ceramic bezel ring, Screw-down crown and case back, See-through case backWater Resistance: 30 bar (300 m) / (100",451.0,EUR,,1167881,43410009,,TISSOT SEASTAR 1000 AUTOMATIC T120.407.11.051.00,"DESCRIPTIONThe Tissot Seastar 1000 merges style and performance without compromising either. The diving inspiration shapes both the appearance and the functionality of this watch. It maintains its performance to a pressure of 30 bar (300m/1'000ft), combining underwater sports and a preference for a sophisticated Swiss timepiece. The diving theme continues through elements such as a unidirectional bezel, a strap with a divers' safety buckle, plus luminescent hands and markings.Case Material316L stainless steel caseCase optionsAnti-clockwise rotating bezel, ceramic bezel ring, Screw-down crown and case back, See-through case backWidth43CrystalScratch-resistant sapphire crystalMovementSwissautomatic,POWERMATIC 80.111Water resistanceWater-resistant up to a pressure of 30 bar (300 m","2,550.00",MYR,,330408,42121103#43410009,0,True,"[-4.1805934906, 4.4715733528]",1,[0.0],0,1,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""stop"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330077,
+  ""id"": ""chatcmpl-78nC10Ef5eqO5ls5xSSTCaDon6PBb"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 1,
+    ""prompt_tokens"": 91,
+    ""total_tokens"": 92
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: T1204171704100 Tissot Seastar 1000 Quartz, product 2: TISSOT SEASTAR 1000 AUTOMATIC T120.407.11.051.00'}]"
+20,4114,75045785,,"PEDAL, PD-RS500, SPD-SL, W/CLEAT",Lighter spring tension optimized for beginner ridersLarger entry target for easier engagementExtra-wide platform transfers pedaling power efficiently,60,USD,,3789862,96573605,Western Digital,"Western Digital Red SA500 2.5\"" 500 GB Serial ATA III 3D NAND","WESTERN DIGITAL BLUE 3D NAND - Disco SSD interno - 1Tb - SATA 3 - 2.5\"" / 6.35 cm - Lectura 560MB/S - Escritura 530MB/S",112.74,EUR,,549556,75045785#96573605,0,True,"[-3.402837038, 3.6195118427]",1,[0.0],0,0 (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""0 ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330078,
+  ""id"": ""chatcmpl-78nC2D1d82tCBOvvLAHdOrSmNd3ao"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 90,
+    ""total_tokens"": 92
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: PEDAL, PD-RS500, SPD-SL, W/CLEAT, product 2: Western Digital Red SA500 2.5\\"" 500 GB Serial ATA III 3D NAND'}]"
+21,3626,15228268,Epson,Genuine Epson C13T79034010 Magenta High Capacity Ink Cartridge (T7903MHOEM),,34.99,GBP,,2618454,95961137,,Atomos ATOMCAB010 Coiled Full HDMI to Full HDMI Cable,Coiled full HDMI to full HDMI Cable (30cm-45cm),22.96,USD,,1208546,15228268#95961137,0,False,"[-1.9203199148, 2.0110924244]",1,[0.0],0,0,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""stop"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""0"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330078,
+  ""id"": ""chatcmpl-78nC2yz11Ho2z4GPtW6rb5fISF3hM"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 1,
+    ""prompt_tokens"": 92,
+    ""total_tokens"": 93
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Genuine Epson C13T79034010 Magenta High Capacity Ink Cartridge (T7903MHOEM), product 2: Atomos ATOMCAB010 Coiled Full HDMI to Full HDMI Cable'}]"
+22,4363,32709637,3M,3M MOBILE INTERACTIVE SOLUTION PF220W9F LIGHTWEIGHT FRAMED PRIVACY FILTER,Condition : New,178.23,USD,,3303908,13519118,,"3M - Privacy Filter 19\""\"" WideS","3M Privacy Filter 19\""\"" WideS (PF319W) - Type: Andet tilbehør",2020.00,DKK,,3303908,32709637#13519118,1,False,"[3.7662460804, -4.2310175896]",0,[1.0],1,0 (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""0 ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330079,
+  ""id"": ""chatcmpl-78nC3VqUIbjh3lI8KwY8PaLaDX1NW"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 87,
+    ""total_tokens"": 89
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: 3M MOBILE INTERACTIVE SOLUTION PF220W9F LIGHTWEIGHT FRAMED PRIVACY FILTER, product 2: 3M - Privacy Filter 19\\""\\"" WideS'}]"
+23,3909,35589885,,"APC Smart-UPS RT - USV - 19\""-Rack montierbar - 230 V",,12351.33,EUR,,280415,26145620,,"APC - Smart-UPS RT 192V RM Battery Pack - Batterihölje ( kan monteras i rack ) - 4 x Bly-syra - 6U - 19\""","APC Smart-UPS RT 192V RM Battery Pack - Batterihölje ( kan monteras i rack ) - 4 x Bly-syra - 6U - 19\"" (SURT192RMXLBP2) - Kapacitet: 0VA - Produkt: Extra batteri",35101.25,SEK,,1075774,35589885#26145620,0,True,"[-2.0760145187, 2.1029970646]",1,[0.0],0,"No,","{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""No,"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330080,
+  ""id"": ""chatcmpl-78nC4aZ92jUuQsiyr2oT7NqZBasqE"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 118,
+    ""total_tokens"": 120
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: APC Smart-UPS RT - USV - 19\\""-Rack montierbar - 230 V, product 2: APC - Smart-UPS RT 192V RM Battery Pack - Batterihölje ( kan monteras i rack ) - 4 x Bly-syra - 6U - 19\\""'}]"
+24,3300,93421678,,CORSAIR Crystal Series 570X RGB Mid Tower,"The beautifully designed CORSAIR Crystal Series 570X RGB Mid Tower is now available to make your own!With immaculate tempered glass enclosing the entire chassis, every component of your build is on display for all to see. It has been designed with three vivid SP120 RGB LED fans keeping your components cool and making sure they don’t over heat. There is also a built-in LED controller and an integrated RGB lighting controller which you can change the colours and modes of. Get your CORSAIR Crystal Series 570X RGB Mid Tower today! Available as a Rental, No Interest purchase or Layby.",,,,355445,84031127,Corsair,Corsair Crystal 570X RGB Mid Tower ATX Case White TG CC-9011110-WW | PCByte,,289.0,AUD,,79866,93421678#84031127,0,True,"[-4.0536427498, 4.3454046249000005]",1,[0.0],0,1 (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1 ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330088,
+  ""id"": ""chatcmpl-78nCC1o3sn7NRP9KjKvkGQ1oLDtvV"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 89,
+    ""total_tokens"": 91
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: CORSAIR Crystal Series 570X RGB Mid Tower, product 2: Corsair Crystal 570X RGB Mid Tower ATX Case White TG CC-9011110-WW | PCByte'}]"
+25,342,4412392,Maxxis,"Maxxis Maxxis, High Roller II, Tire, 29''x2.50, Folding, Tubeless Ready, 3C Maxx Terra, Double Down, Wide Trail, 120x2TPI, Black",,122.00,CAD,,1702430,39023980,,Maxxis Highroller II Black Fold/120 x 2 3C/Terra/DD/TR/WT Tires,"An open and aggressive tread design gives the High Roller II excellent soil penetration and mud-clearing ability. A square profile provides a solid, consistent feel across the knobs. Modified knobs on the shoulder and center improve braking performance and traction on hard surfaces. An excellent choice for technical, freeride terrain.Features Include:Open, mud clearing tread design with ramped center knobs and aggressive shoulder knobs provide ample bite on loose soil and in corners TERRA - 3C Maxx Terra is softer and offers more traction than 3C Maxx Speed, yet provides better treadwear and less rolling resistance than Maxx Grip DD -",9.0E1,USD,,1702430,4412392#39023980,1,False,"[0.0605003834, -0.2435629517]",0,[1.0],1,1 -,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1 -"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330088,
+  ""id"": ""chatcmpl-78nCCOtX4bzcVskzkvqPZI1GeZXdd"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 123,
+    ""total_tokens"": 125
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': ""product 1: Maxxis Maxxis, High Roller II, Tire, 29''x2.50, Folding, Tubeless Ready, 3C Maxx Terra, Double Down, Wide Trail, 120x2TPI, Black, product 2: Maxxis Highroller II Black Fold/120 x 2 3C/Terra/DD/TR/WT Tires""}]"
+26,988,84262325,,CANON 707 (LBP-5000) Cyan,,,,,1813263,16525133,,Canon IPF5000 CYAN INK 130ml,Canon IPF5000 CYAN INK 130ml,63.36,GBP,,1059522,84262325#16525133,0,True,"[-1.9297462702, 1.9194535017]",1,[0.0],0,0,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""stop"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""0"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330089,
+  ""id"": ""chatcmpl-78nCD60SQ061RUs3kabVSN576BCU2"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 1,
+    ""prompt_tokens"": 78,
+    ""total_tokens"": 79
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: CANON 707 (LBP-5000) Cyan, product 2: Canon IPF5000 CYAN INK 130ml'}]"
+27,828,20884128,,DJI - Mavic 2 Part 11 Car Charger,DJI - Mavic 2 Part 11 Car Charger,7.9E1,USD,,697868,60610853,DJI Consumer,DJI Mavic | Car Charger | Spare Part 6,Car Charger for Mavic Pro,55.00,EUR,,1430778,20884128#60610853,0,True,"[-0.7531234026, 0.7176947594]",1,[0.0],0,1 (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1 ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330090,
+  ""id"": ""chatcmpl-78nCEcXjrSfVbsjQnkEWJVKONN3qu"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 78,
+    ""total_tokens"": 80
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: DJI - Mavic 2 Part 11 Car Charger, product 2: DJI Mavic | Car Charger | Spare Part 6'}]"
+28,1653,44313469,,Elixir 11152 Nanoweb 10-47 12-String Acoustic Strings,"Lots of strings sound great — for a day or two that is! Let's face it, replacing strings (especially strings you just bought) is a total hastle! With Elixir Acoustic Nanoweb strings, you get the tone you want and keep it for months after conventional strings wuss out. The secret is the ultra-thin polymer coating Elixir covers their strings with. It keeps the oils on your hands and other nastiness off of your strings so they don't corrode.",24.99,USD,,50573,16899666,Elixir,"Elixir Nanoweb Coated 12-String Guitar String Set, 80/20 Bronze, .010-.047","Elixir guitar strings feature an Ultra-Thin NANOWEB Coating, a unique high technology polymer that provides increased protection of wound strings from perspiration, dirt, and body oils, and still provides great sound.GaugesEBGDAEE11152.010-.047High Octave.010.014.009.012.018.027Low Octave.010.014.023.030.039.047",26.99,GBP,,50573,44313469#16899666,1,False,"[3.6791863441, -4.1317248344]",0,[1.0],1,1,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""stop"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330090,
+  ""id"": ""chatcmpl-78nCEeWjYoRvzE1eOvTToko4KAvjY"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 1,
+    ""prompt_tokens"": 98,
+    ""total_tokens"": 99
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Elixir 11152 Nanoweb 10-47 12-String Acoustic Strings, product 2: Elixir Nanoweb Coated 12-String Guitar String Set, 80/20 Bronze, .010-.047'}]"
+29,1476,47521302,,AUDEMARS PIGUET ROYAL OAK OFFSHORE CHRONOGRAPH 42MM STAINLESS STEEL MEN'S WATCH- Luxury Souq,"42mm stainless steel case, 14.5mm thickness, self winding movement, glareproofed sapphire crystal and caseback, black ceramic pushpieces and screw-locked crown brown alligator/crocodile leather strap, fixed bezel, scratch resistant sapphire crystal, power reserve to 50 h, water resistant to 100m/330ft.",23160,USD,,34768783,18503496,,Royal Oak Offshore Chronograph 42mm,"Pre-owned Audemars Piguet Royal Oak Offshore 42mm 26470OR.OO.A125CR.01 42mm 18ct rose gold case, 18ct fixed rose gold bezel, Grey ruthenium-toned dial with “Méga Tapisserie” pattern with white sub dials featuring a date indicator at 3 o’clock, automatic movement with chronograph function, on a black leather strap. Complete with original box and papers.",32995,GBP,,67840743,47521302#18503496,0,True,"[-2.9768548012, 3.0979509354]",1,[0.0],0,1 (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1 ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330091,
+  ""id"": ""chatcmpl-78nCFJNfCu4WEOcLWq6qM193YnPK6"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 96,
+    ""total_tokens"": 98
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': ""product 1: AUDEMARS PIGUET ROYAL OAK OFFSHORE CHRONOGRAPH 42MM STAINLESS STEEL MEN'S WATCH- Luxury Souq, product 2: Royal Oak Offshore Chronograph 42mm""}]"
+30,364,51320865,,Crucial - DDR3L - 4 GB - SO DIMM 204-pinos - 1600 MHz/ PC3-12800 - CL11 - 1.35 V - unbuffered - sem ECC,Crucial - DDR3L - 4 GB - SO DIMM 204-pinos - 1600 MHz/ PC3-12800 - CL11 - 1.35 V - unbuffered - sem ECC,24.69,EUR,,893407,69155979,,Crucial 4GB DDR3L / 1600 C11 DIMM (Low volt.),Guaranteed-compatible with the ASUS P8Z68-V LX,2.395E1,EUR,,2395112,51320865#69155979,0,True,"[-3.3554568291, 3.5360939503]",1,[0.0],0,"Yes,","{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""Yes,"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330091,
+  ""id"": ""chatcmpl-78nCFLFHRrW71Ms1YQSrrJcrOyhaU"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 119,
+    ""total_tokens"": 121
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Crucial - DDR3L - 4 GB - SO DIMM 204-pinos - 1600 MHz/ PC3-12800 - CL11 - 1.35 V - unbuffered - sem ECC, product 2: Crucial 4GB DDR3L / 1600 C11 DIMM (Low volt.)'}]"
+31,3677,76613072,,Orologio Tissot Seamaster Powermatic 80 - T1204071105100,Tissot T1204071105100,513,EUR,,330408,46780169,TISSOT,Tissot Seastar 1000 Powermatic 80 Silicium T120.407.11.041.01,Tissot Seastar 1000 Powermatic 80 Silicium T120.407.11.041.01,28479.0000,UAH,,3457955,76613072#46780169,0,True,"[-2.7852666378, 2.8888990879]",1,[0.0],0,No.,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""No."",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330092,
+  ""id"": ""chatcmpl-78nCGl68nO9ZIiueYYukNTO5YsCxC"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 99,
+    ""total_tokens"": 101
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Orologio Tissot Seamaster Powermatic 80 - T1204071105100, product 2: Tissot Seastar 1000 Powermatic 80 Silicium T120.407.11.041.01'}]"
+32,3029,78765970,,Xerox 106R01162 High Capacity Yellow Toner Cartridge,Genuine OEM 106R01162 toner cartridge exclusively designed for the Xerox Phaser 7760.,520.31,USD,,219682,80827080,Xerox,Xerox Toner Gul 25k - Phaser 7760,,2899,DKK,,219682,78765970#80827080,1,False,"[3.7963519096000002, -4.2605667114]",0,[1.0],1,No.,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""No."",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330093,
+  ""id"": ""chatcmpl-78nCHuecsh5FjuxttVaPRSNLfPYht"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 81,
+    ""total_tokens"": 83
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Xerox 106R01162 High Capacity Yellow Toner Cartridge, product 2: Xerox Toner Gul 25k - Phaser 7760'}]"
+33,661,50148316,Jabra,Jabra BIZ 2400 II Duo Wideband Corded Headset,Jabra BIZ 2400 II Duo Wideband Corded Headset from Headset Store. Next Day Delivery. Part Code:2489-820-209,155.99,GBP,,472648,50176689,Jabra,Jabra 2400 II QD Mono NC 3 in1 Wired Headset - Black,"The BIZ 2400 II offers outstanding sound at both ends of the call for a superior customer experience. Up to 40% lighter than competing headsets and with a low headband pressure, the Biz 2400 II allows the agent to focus on their customer conversation in unrivalled comfort. Jabra BIZ 2400 II QD Duo is a duo headset with QD (Quick Disconnect) plug that provides instant connectivity to a wide range of desk phone systems.Noise-cancelling microphones reduce unwanted background noise and are ideal in crowded and noisy open working environments.",189.00,USD,,2148042,50148316#50176689,0,True,"[-2.2923784256, 2.3347203732]",1,[0.0],0,No.,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""No."",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330093,
+  ""id"": ""chatcmpl-78nCHJmVOglwf5LAwxqdEFfSHIA4i"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 88,
+    ""total_tokens"": 90
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Jabra BIZ 2400 II Duo Wideband Corded Headset, product 2: Jabra 2400 II QD Mono NC 3 in1 Wired Headset - Black'}]"
+34,1756,41263175,,"3M - PRIVACY FILTER LCD 27\"" 16:9","3M PRIVACY FILTER LCD 27\"" 16:9 (PF27.0W9) - Typ: Skärmskydd",1868.75,SEK,,2996705,42324571,,"3M - Privacy filter 23\"" widescreen","3M Privacy filter 23\"" widescreen (PF230W9F) - Type: Andet tilbehør",1849.48,DKK,,654362,41263175#42324571,0,True,"[-2.4152853489, 2.4573180676]",1,[0.0],0,0,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""stop"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""0"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330094,
+  ""id"": ""chatcmpl-78nCIGFbrtap8iYCj50T0gWHpXpK5"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 1,
+    ""prompt_tokens"": 80,
+    ""total_tokens"": 81
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: 3M - PRIVACY FILTER LCD 27\\"" 16:9, product 2: 3M - Privacy filter 23\\"" widescreen'}]"
+35,735,9216392,Shimano,XT M8000 11-Speed Cassette 11-40T,"##Shimano XT M8000 11-Speed Cassette 11-40TFor consisent shifting performance out on the trails, choose the Shimano XT M8000 11-Speed Cassette in this 11-40 tooth configuration.Compatible with Shimano 11-speed mountain bike groupsets, this relatively narrow ranging cassette enables the rider to maintain a more consistent cadence while shifting over undulating terrain. The gaps between teeth are close, making it ideal for mountain bike racing, too.This premium cassette features chrome plating to improve the durability of the teeth, while the aluminium and steel construction is designed to minimise the overall weight of the component.The Hyperglide sprockets have been computer designed with contoured",79,GBP,,328225,92885727,Shimano,"Shimano Deore XT CS-M8000 Cassette 11 vitesses, silver/grey",,75.99,EUR,,328225,9216392#92885727,1,False,"[3.6476590633, -4.1038527489]",0,[1.0],1,1 (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1 ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330094,
+  ""id"": ""chatcmpl-78nCIhFME2PrNJoXbTzBIuWnyHsqo"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 87,
+    ""total_tokens"": 89
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: XT M8000 11-Speed Cassette 11-40T, product 2: Shimano Deore XT CS-M8000 Cassette 11 vitesses, silver/grey'}]"
+36,194,36019341,,Unifi Video Camera Micro G3,"Unifi Video Camera Micro, G3",264.99,CAD,,591042,53025257,,Ubiquiti UVC-G3-Bullet UniFi IP Bullet Camera,,$‎197.95,USD,,591042,36019341#53025257,1,False,"[3.066552639, -3.4577066898]",0,[1.0],1,1,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""stop"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330095,
+  ""id"": ""chatcmpl-78nCJowXB0W7pXmUmLTiZzKwzjCys"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 1,
+    ""prompt_tokens"": 75,
+    ""total_tokens"": 76
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Unifi Video Camera Micro G3, product 2: Ubiquiti UVC-G3-Bullet UniFi IP Bullet Camera'}]"
+37,614,17392165,D'Addario,"D'Addario Acoustic String Set, Phosphor Bronze, EJ16 Light .012-.053","Introduced to stringmaking by D'Addario in 1974, phosphor bronze has become synonymous with great, long-lasting string tone, and has become the stage and studio choice of top professionals worldwide.GaugesEBGDAEEJ15Extra Light.010-.047.010.014.023.030.039.047EJ26Custom Light.011-.052.011.015.022.032.042.052EJ16Light.012-.053.012.016.024.032.042.053EJ19Bluegrass.012-.056.012.016.025.035.045.056EJ17Medium.013-.056.013.017.026.035.045.056EJ24True Medium.013-.056.013.017.024.032.042.056EJ18Heavy.014-.059.014.018.027.039.049.059EJ42Resophonic.016-.056.016.018.028.035.045.056",8.99,GBP,,1297798,42493890,D'Addario,"D'Addario D'Addario XT Acoustic Phosphor Bronze, Medium, 13-56","D'Addario XTstrings are made to stay, with uncompromising performance that never fades away.",14.99,USD,,1456309,17392165#42493890,0,True,"[-2.0680184364, 2.1158604622]",1,[0.0],0,0,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""stop"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""0"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330095,
+  ""id"": ""chatcmpl-78nCJmKTZqPkTRXpkalkPwhddZNkR"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 1,
+    ""prompt_tokens"": 98,
+    ""total_tokens"": 99
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': ""product 1: D'Addario Acoustic String Set, Phosphor Bronze, EJ16 Light .012-.053, product 2: D'Addario D'Addario XT Acoustic Phosphor Bronze, Medium, 13-56""}]"
+38,7,66462363,Audio Technica,Audio Technica ATH-M50x Professional Monitor Headphones,"This is the most critically acclaimed model in the M-Series line, praised by top audio engineers and pro audio reviewers year after year.",122.00,GBP,,1889634,91241309,,Audio Technica ATH-M50x Professional Monitor Audiophile Headphones - White,"Audio-Technica ATH-M50X Professional Studio Headphones - Black - On-Ear - Closed-back dynamic - 45mm Neodymium Drivers - 15 ~ 28,000 Hz Frequency Response - 38 ohms impedance - 1,600mW at 1 kHz max input power - Interchangeable cables: detachable 1.2M - 3.0M coiled cable, detachable 3.0M straight cable and detachable 1.2M straight cable - 3.5mm with 6.3 mm (1/4"") screw-on adapter - 1 Year Manufacturer WarrantyPure. Professional. Performance.As the most critically acclaimed model in the M-Series line, the ATH-M50 is praised by top audio engineers and pro audio reviewers year after year. Now, the ATH-M50x professional monitor headphones feature the",369,NZD,,1084160,66462363#91241309,0,True,"[-1.9811097383, 1.9827538729]",1,[0.0],0,1 (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1 ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330096,
+  ""id"": ""chatcmpl-78nCKeGPxSPkiYqOhmWZnS8F8EMqb"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 80,
+    ""total_tokens"": 82
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Audio Technica ATH-M50x Professional Monitor Headphones, product 2: Audio Technica ATH-M50x Professional Monitor Audiophile Headphones - White'}]"
+39,2423,89792967,,"Jabra Biz 2400 II Mono 3-1, NC, 82 mic, Wideband, QD",,12990,PHP,,5673093,50176689,Jabra,Jabra 2400 II QD Mono NC 3 in1 Wired Headset - Black,"The BIZ 2400 II offers outstanding sound at both ends of the call for a superior customer experience. Up to 40% lighter than competing headsets and with a low headband pressure, the Biz 2400 II allows the agent to focus on their customer conversation in unrivalled comfort. Jabra BIZ 2400 II QD Duo is a duo headset with QD (Quick Disconnect) plug that provides instant connectivity to a wide range of desk phone systems.Noise-cancelling microphones reduce unwanted background noise and are ideal in crowded and noisy open working environments.",189.00,USD,,2148042,89792967#50176689,0,True,"[-2.2867319584, 2.3386111259]",1,[0.0],0,1,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""stop"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330096,
+  ""id"": ""chatcmpl-78nCK2ZtjnxXtLzX0kHWNn6M99Txo"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 1,
+    ""prompt_tokens"": 97,
+    ""total_tokens"": 98
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Jabra Biz 2400 II Mono 3-1, NC, 82 mic, Wideband, QD, product 2: Jabra 2400 II QD Mono NC 3 in1 Wired Headset - Black'}]"
+40,1562,75286119,Shimano,"Shimano BICYCLE CHAIN,CN-HG901-11,QL 11-SPD(RD/MTB/E-BIKE)QUICK-LNK",,65.99,CAD,,1037461,86820843,,Shimano DURA ACE CN-HG900-11 HG901 HG-X SIL-TEC CHAIN,"FEATURES + BENEFITSHG-X11 special asymmetric plate design for 11-speedSIL-TEC on Plate/RollerHG-X11 Versions: CN-HG900-11, CN-HG901-11, CN-HG700-11, CN-HG600-11Compatibility: MTB and Road (11-Speed)DETAILSBICYCLE CHAIN, CN-HG900-11,FOR 11-SPEED (ROAD/MTB COMPATIBLE), 116 LINKSSPECS CHROMIZING TREATMENT ON PIN X SERIES - TYPE HG-X11 GENERATION - PIN LINK PLATE SIL-TEC ROLLER SIL-TEC SPEEDS 11 AVERAGE WEIGHT 247g ROLLER LINK PLATE SIL-TEC GENDER - E-BIKE APPROVED X HOLLOW PIN X",64.99,CAD,,1037461,75286119#86820843,1,False,"[1.118401289, -1.224589467]",0,[1.0],1,"Yes,","{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""Yes,"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330097,
+  ""id"": ""chatcmpl-78nCL83YzdQX72xABk0hjZd9LZL49"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 109,
+    ""total_tokens"": 111
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Shimano BICYCLE CHAIN,CN-HG901-11,QL 11-SPD(RD/MTB/E-BIKE)QUICK-LNK, product 2: Shimano DURA ACE CN-HG900-11 HG901 HG-X SIL-TEC CHAIN'}]"
+41,4241,98088357,,Switch TP-LINK TL-SG1024DE,"24-Port Gigabit Easy Smart Switch, 24 10/100/1000Mbps RJ45 ports,MTU/Port/Tag-based VLAN, QoS, IGMP Snooping",93.27,EUR,,180905,42103916,,Switch TP-LINK - GIGABIT SMART SWITCH,,2.8299E2,EUR,,3403774,98088357#42103916,0,True,"[-3.5040473938, 3.6980676651]",1,[0.0],0,1,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""stop"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330097,
+  ""id"": ""chatcmpl-78nCLZBksRMeJLJ8M6WfeO9rSi2iR"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 1,
+    ""prompt_tokens"": 75,
+    ""total_tokens"": 76
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Switch TP-LINK TL-SG1024DE, product 2: Switch TP-LINK - GIGABIT SMART SWITCH'}]"
+42,545,69681239,,Daniel Wellington Classic Sheffield Rose 40mm Gold Watch,"With leather darker than the deepest parts of the ocean, the Classic Sheffield was carefully designed to stand the test of time while maintaining its effortless beauty. This minimalistic piece proves that simple does not necessarily mean boring.",319.00,SGD,,3851409,33918678,DANIEL WELLINGTON,Relgio DANIEL WELLINGTON Classic Sheffield,Relgio DANIEL WELLINGTON Classic Sheffield,169.00,EUR,,48610,69681239#33918678,0,True,"[-2.3332395554, 2.3796467781]",1,[0.0],0,1 (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1 ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330098,
+  ""id"": ""chatcmpl-78nCMNLiY7Z2UbB3XZ3HdBN4ZzS97"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 72,
+    ""total_tokens"": 74
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Daniel Wellington Classic Sheffield Rose 40mm Gold Watch, product 2: Relgio DANIEL WELLINGTON Classic Sheffield'}]"
+43,304,95541515,Tag Heuer,Tag Heuer Carrera Chronograph CBK2112.BA0715,"Pre-Owned Tag Heuer Carrera Chronograph (CBK2112BA0715) self-winding automatic watch, features a 41mm stainless steel case surrounding a blu...Read More",0.0,,,37455178,13028777,,TAG Heuer Carrera Calibre 16 Automatic Men's Watch,"Just as exciting as the race that inspired it, this watch breaks traditional watchmaking rules and is the first chronograph specifically designed for professional drivers, but is also perfect for speeding down the open road or cruising through daily life thanks to a more simple, more elegant, more readable design. With a sleek 41mm stainless steel body, this TAG Heuer Carrera watch provides an elegant aesthetic just like that of the race cars that inspired it. Crafted with an appealing two colour finish achieved by combining sumptuous stainless steel with a smooth black dial, expressively matched by the chronograph dial",3.55E3,GBP,,37455178,95541515#13028777,1,False,"[3.4321410656, -3.8620507717]",0,[1.0],1,1 (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1 ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330098,
+  ""id"": ""chatcmpl-78nCMJ0O4LPBn8KTdPZFYpkELzwkT"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 82,
+    ""total_tokens"": 84
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': ""product 1: Tag Heuer Carrera Chronograph CBK2112.BA0715, product 2: TAG Heuer Carrera Calibre 16 Automatic Men's Watch""}]"
+44,3667,97999811,Shimano,Shimano Dura-Ace CS-R9100 Cassette 11 vitesses,,187.99,EUR,,1915922,331049,,Dura-Ace 9100 11-Speed Cassette,"- Rider Tuned Gearing- Wider Gear Combination: 11 – 28T/12 – 28T/11 – 30T (New Gear Combination)- Closer Gear Combination: 11 – 25T/12 – 25T- Lightweight- CFRP & Alloy Spider Arm, 5...",255.99,USD,,75017,97999811#331049,0,True,"[-4.3826341629, 4.6711626053]",1,[0.0],0,1,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""stop"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330099,
+  ""id"": ""chatcmpl-78nCNQ2jra6yg0F5xTckWMddRskwr"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 1,
+    ""prompt_tokens"": 82,
+    ""total_tokens"": 83
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Shimano Dura-Ace CS-R9100 Cassette 11 vitesses, product 2: Dura-Ace 9100 11-Speed Cassette'}]"
+45,1510,44772050,,Ubiquiti UniFi Video Camera G3 Flex 3 Pack,"Ubiquiti UniFi Video Camera G3 Flex 3 Pack, Infrared IR, 1080P HD Video, Wall Mount, Pole Mount, Weather Resistant",359.00,AUD,,266703,12113649,,Ubiquiti UniFi Video Camera G3 BULLET 3-pack UVC-G3-BULLET-3 Ubiquiti,,370.00,EUR,,64482,44772050#12113649,0,True,"[-2.4368925095, 2.4770896435]",1,[0.0],0,No.,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""No."",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330104,
+  ""id"": ""chatcmpl-78nCSgywh28LXfg621nSF2fLW4zmE"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 92,
+    ""total_tokens"": 94
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Ubiquiti UniFi Video Camera G3 Flex 3 Pack, product 2: Ubiquiti UniFi Video Camera G3 BULLET 3-pack UVC-G3-BULLET-3 Ubiquiti'}]"
+46,3831,62307014,Epson,Genuine Epson C13T865140 Black Extra High Capacity Ink Cartridge (C13T865140),,123.99,GBP,,193507,96565508,Epson,"Original Tinte Epson T8651, ca. 10.000 S., schwarz",,94.46,EUR,,193507,62307014#96565508,1,False,"[1.6469753981, -1.8263047934]",0,[1.0],1,Yes (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""Yes ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330104,
+  ""id"": ""chatcmpl-78nCSBmUYlNtLugLzypurNJ3Nxd8a"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 94,
+    ""total_tokens"": 96
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Genuine Epson C13T865140 Black Extra High Capacity Ink Cartridge (C13T865140), product 2: Original Tinte Epson T8651, ca. 10.000 S., schwarz'}]"
+47,1175,96154364,Shimano,Shimano Dura Ace R9100 11-Speed Cassette,Shimano 11 SpeedDura Ace R9100For our full range of Chain Devices & Bash Rings visit Evans Cycles,£229.99,GBP,,1915922,331049,,Dura-Ace 9100 11-Speed Cassette,"- Rider Tuned Gearing- Wider Gear Combination: 11 – 28T/12 – 28T/11 – 30T (New Gear Combination)- Closer Gear Combination: 11 – 25T/12 – 25T- Lightweight- CFRP & Alloy Spider Arm, 5...",255.99,USD,,75017,96154364#331049,0,True,"[-4.2622394562, 4.5623602867]",1,[0.0],0,1.,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1."",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330105,
+  ""id"": ""chatcmpl-78nCThONsUmr2Zh547Y1dntvJZt8d"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 79,
+    ""total_tokens"": 81
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Shimano Dura Ace R9100 11-Speed Cassette, product 2: Dura-Ace 9100 11-Speed Cassette'}]"
+48,1024,81418800,EPSON,Epson atrament SPro 7880/9880/7800/9800 photo black 220ml,220ml...,112.56,EUR,,413734,81199255,Epson,Epson T6031 high yield photo black inkjet cartridge for use with Epson Stylus Pro 7800/9800 printers. EP603100,Epson T6031 high yield photo black inkjet cartridge for use with Epson Stylus Pro 7800/9800 printers. EP603100,99.28,GBP,,413734,81418800#81199255,1,False,"[3.6341154575, -4.1047196388]",0,[1.0],1,"Yes,","{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""Yes,"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330106,
+  ""id"": ""chatcmpl-78nCUCTcLb4ncRAzzjsjEj6F0IzQ8"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 109,
+    ""total_tokens"": 111
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Epson atrament SPro 7880/9880/7800/9800 photo black 220ml, product 2: Epson T6031 high yield photo black inkjet cartridge for use with Epson Stylus Pro 7800/9800 printers. EP603100'}]"
+49,3818,59806836,,Standard Mouth Water Bottle with Flex Cap Lid,"Coffee and tea drinkers rejoice - lukewarm drinks are now a thing of the past! The Standard Mouth Hydro Flask withFlexcap Lid will keep your coffee and tea steaming hot for up to 12 hours, or your cold beverage icy cold for up to 24 hours.TheStandard Mouth features a water bottle opening at 1.91inches.Each Hydro Flask is hand cast from double wall vacuum insulated food grade 18/8 stainless steel, therefore they are BPA-Free and resistant to bacteria and odors.Double Wall Vacuum Insulated.Keeps beverages hot up to 12 hours.Keeps beverages cold up to 24 hours.BPA-Free.18/8 Stainless Steel.Signature Powder Coat Finish.Lifetime Warranty.",32.95,USD,,1446023,84935968,HydroFlask,HydroFlask 21 oz. Standard Mouth Bottle w/ Flex Cap,Keep life moving with our 21 oz bottle and Standard Flex Cap. It stashes easily and holds enough ice cold goodness to keep you going for hours without weighing you down.,32.95,USD,,1558854,59806836#84935968,0,True,"[-2.327824831, 2.3571465015]",1,[0.0],0,1,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""stop"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330106,
+  ""id"": ""chatcmpl-78nCUMQRdKC8WCrNd3Qb2SgVC6hbw"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 1,
+    ""prompt_tokens"": 76,
+    ""total_tokens"": 77
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Standard Mouth Water Bottle with Flex Cap Lid, product 2: HydroFlask 21 oz. Standard Mouth Bottle w/ Flex Cap'}]"
+50,529,1803520,,Epson - magenta - original - ink cartridge,"The Epson Discproducer features 6 color, high-capacity, and dye based ink cartridges instead of the more common four.With just one set of high-capacity ink cartridges, printing 1000 or more discs without changing cartridges is possible. In addition, ink level status is shown with LED readout for each color to prevent running out of ink while printing.",62.99,CAD,,2284784,47193415,,Epson Tower of Pisa Tanica Magenta,Tanica Magenta,37.98,EUR,,2618454,1803520#47193415,0,True,"[-2.7614965439, 2.8640077114]",1,[0.0],0,0.,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""0."",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330107,
+  ""id"": ""chatcmpl-78nCVQJdEBuSphEAe6Vv9ipL2n9Ba"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 74,
+    ""total_tokens"": 76
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Epson - magenta - original - ink cartridge, product 2: Epson Tower of Pisa Tanica Magenta'}]"
+51,2414,95541515,Tag Heuer,Tag Heuer Carrera Chronograph CBK2112.BA0715,"Pre-Owned Tag Heuer Carrera Chronograph (CBK2112BA0715) self-winding automatic watch, features a 41mm stainless steel case surrounding a blu...Read More",0.0,,,37455178,4258869,,TAG Heuer Carrera Chronograph Calibre Automatic Men's Watch,"Just as exciting as the race that inspired it, this watch breaks traditional watchmaking rules and is the first chronograph specifically designed for professional drivers, but is also perfect for speeding down the open road or cruising through daily life thanks to a more simple, more elegant, more readable design. With a sleek 45mm stainless steel body, this TAG Heuer Carrera watch provides an elegant aesthetic just like that of the race cars that inspired it. The black anti glare skelenton dial and skeletonised polished hour and minute hands with day-date window at 3 o'clock allows you to see the",4.95E3,GBP,,1434374,95541515#4258869,0,True,"[-1.6917946339, 1.6840910912]",1,[0.0],0,1 (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1 ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330115,
+  ""id"": ""chatcmpl-78nCd7RCV7qfegt1q8yu4kL324Yg0"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 82,
+    ""total_tokens"": 84
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': ""product 1: Tag Heuer Carrera Chronograph CBK2112.BA0715, product 2: TAG Heuer Carrera Chronograph Calibre Automatic Men's Watch""}]"
+52,851,25227642,,"APC Smart-UPS 1000VA/700W, Line-Interactive, LCD, 8x C13, SmartSlot, USB, HS repl. batt. (SMT1000I)",",..,.,Smart-UPS.-.15,,,.( , USBEthernet).PowerchuteBusiness Edition,.,.",39310,RUB,,2132160,2025223,APC,APC Smart-UPS 1000VA LCD RM,,7047,SEK,,91557,25227642#2025223,0,True,"[-2.9129951, 3.002743721]",1,[0.0],0,0,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""stop"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""0"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330115,
+  ""id"": ""chatcmpl-78nCdeKHaEyMvYrnCPr9FdzJcxShe"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 1,
+    ""prompt_tokens"": 104,
+    ""total_tokens"": 105
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: APC Smart-UPS 1000VA/700W, Line-Interactive, LCD, 8x C13, SmartSlot, USB, HS repl. batt. (SMT1000I), product 2: APC Smart-UPS 1000VA LCD RM'}]"
+53,4128,7037907,,"GIGABYTE VGA NVIDIA GeForce GTX 1650 D6 OC 4G Rev. 2.0, 4GB GDDR6, 1xDVI, 1xHDMI, 1xDP",,4700,CZK,,213319,98139630,Gigabyte,"Gigabyte Radeon RX 5500 XT OC 4G, 4096 MB GDDR6","Gaming-Grafikkarte Radeon RX 5500 XT von Gigabyte, max. 1.845 MHz GPU-Boost-Takt, 4 GB GDDR6-Speicher, 3x DisplayPort 1.4 / 1x HDMI, Dual-Lüfter-Kühlerdesign",189.99,EUR,,1857431,7037907#98139630,0,True,"[-2.4714515209, 2.553784132]",1,[0.0],0,No.,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""No."",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330116,
+  ""id"": ""chatcmpl-78nCeko4dglEQjC0jGjNBDDaYcEZm"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 120,
+    ""total_tokens"": 122
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: GIGABYTE VGA NVIDIA GeForce GTX 1650 D6 OC 4G Rev. 2.0, 4GB GDDR6, 1xDVI, 1xHDMI, 1xDP, product 2: Gigabyte Radeon RX 5500 XT OC 4G, 4096 MB GDDR6'}]"
+54,4497,96595609,Daniel Wellington,Daniel Wellington Classic Sheffield Watch | Silver 40mm,Nothing is as sleek and refined as a supple black leather wristband attached to a slim and chic watch case. With the Classic Sheffield Men's Watch from Daniel Wellington all of your style needs will be met. [Details] Strap: Leather Strap Color: Black Case Color: Silver Dial Color: Eggshell white...,229.00,USD,,5135259,33918678,DANIEL WELLINGTON,Relgio DANIEL WELLINGTON Classic Sheffield,Relgio DANIEL WELLINGTON Classic Sheffield,169.00,EUR,,48610,96595609#33918678,0,True,"[-1.9202262163000001, 1.9179266690999999]",1,[0.0],0,1 (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1 ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330116,
+  ""id"": ""chatcmpl-78nCe5uwf2Kdn2GDwzEAxzFO5ZWxq"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 72,
+    ""total_tokens"": 74
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Daniel Wellington Classic Sheffield Watch | Silver 40mm, product 2: Relgio DANIEL WELLINGTON Classic Sheffield'}]"
+55,2524,81418800,EPSON,Epson atrament SPro 7880/9880/7800/9800 photo black 220ml,220ml...,112.56,EUR,,413734,40848058,,"Epson T603700 Light Black Ink 220ml UltraChrome for SP 7800, 7880 & 9800, 9880",,169.00,CAD,,786291,81418800#40848058,0,True,"[-2.6484422684, 2.7252008915]",1,[0.0],0,No.,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""No."",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330117,
+  ""id"": ""chatcmpl-78nCfpyDy8PnhvQ56CAGCfVcdRG9L"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 107,
+    ""total_tokens"": 109
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Epson atrament SPro 7880/9880/7800/9800 photo black 220ml, product 2: Epson T603700 Light Black Ink 220ml UltraChrome for SP 7800, 7880 & 9800, 9880'}]"
+56,3221,21950021,,Elixir X-Light 10-47 Nanoweb Phosphor Bronze,"Many players prefer the rich, textured tone of phosphor bronze strings. These Elixir Strings capture the sweet spot of that unique phosphor bronze tone and e",16.99,USD,,2603630,219508,,Elixir Strings Nanoweb Phosphor Bronze Acoustic Guitar Strings -.012-.053 Light,"Elixir Strings revolutionized guitar strings by finding a way to extend the life of wound strings without compromising the tone. Nanoweb coated strings sound and feel like uncoated strings - they are bright and lively, and the coating is so micro thin that you can barely tell it's there. 6-Strings per set.",1.599E1,USD,,580455,21950021#219508,0,True,"[-4.3934893608, 4.6748409271]",1,[0.0],0,1,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""stop"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330117,
+  ""id"": ""chatcmpl-78nCfXH4KGMkFXSuduzGLH9Pt186Y"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 1,
+    ""prompt_tokens"": 89,
+    ""total_tokens"": 90
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Elixir X-Light 10-47 Nanoweb Phosphor Bronze, product 2: Elixir Strings Nanoweb Phosphor Bronze Acoustic Guitar Strings -.012-.053 Light'}]"
+57,2613,50344604,Ilford,Ilford Ilford FP4+ 125 120 B&W Film - Single Roll,,7.50,USD,,213315,90381969,,Canon EF-S 18-200mm f3.5-5.6 IS Lens,"Compact, slightweight and a wide magnification range - the Canon EF-S 18-200mm f3.5-5.6 IS Lens features a wide focal length range from normal to telephoto equivalent to 29-320mm in the 35mm format. It features an Optical Image Stabilizer for up to 4-stops of effective correction even at full zoom. Since...",699.99,USD,,213315,50344604#90381969,1,False,"[1.4365189075, -1.6833636761]",0,[1.0],1,0 (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""0 ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330118,
+  ""id"": ""chatcmpl-78nCgXfSgxQhgpMQoR7uUYGMEZgum"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 89,
+    ""total_tokens"": 91
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Ilford Ilford FP4+ 125 120 B&W Film - Single Roll, product 2: Canon EF-S 18-200mm f3.5-5.6 IS Lens'}]"
+58,2116,90493626,,Fujifilm Instax Square Instant Film - 20 Photos,The Fujifilm Instax Square Instant Film is for use with the Fuji Instax Square SQ10 Camera. This pack of Fuji Instax Square film contains 20 photos and will produce fantastic mini images at 62x62mm on a film size of 86x72mm. Its possible to write on the white border with non water based pens.,21.99,GBP,,300521,35392050,,Fujifilm Instax Square Film - 20 Sheets,"The Fujifilm instax Square Film boasts of high-quality professional instant photograph technology in a square format. It is compatible with any instax Square camera or printer including instax SQ6, SQ20 and SHARE SP-3.Pack contains 20 sheetsGuarantees accurate colour and sharpnessIdeal for scrapbooks or photo albumsLong lasting sheet",22,AUD,,1457721,90493626#35392050,0,True,"[-4.4001955986, 4.6777391434]",1,[0.0],0,1 (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1 ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330147,
+  ""id"": ""chatcmpl-78nD9Kdly89mJ6Ufg8GpodfEliuBB"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 77,
+    ""total_tokens"": 79
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Fujifilm Instax Square Instant Film - 20 Photos, product 2: Fujifilm Instax Square Film - 20 Sheets'}]"
+59,1923,79609688,LOGITECH,LOGITECH BRIO 4096 X 2160PIXELS USB 3.0 BLACK WEBCAM,,,,,182432,41451800,,Webcam Logitech Brio 4K UHD,,235.63,EUR,,182432,79609688#41451800,1,False,"[1.3465034962, -1.4328587055]",0,[1.0],1,1,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""stop"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330148,
+  ""id"": ""chatcmpl-78nDAywYBubJHE88bwAKz6SWLbt0n"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 1,
+    ""prompt_tokens"": 87,
+    ""total_tokens"": 88
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: LOGITECH BRIO 4096 X 2160PIXELS USB 3.0 BLACK WEBCAM, product 2: Webcam Logitech Brio 4K UHD'}]"
+60,4200,24284673,,Shimano XT M786 10sp Shadow+ Rear Derailleur - Black / SGS,Shimano's Deore XT Shadow Rear Derailleur is perfect for today's aggressive all-mountain riding. The radical design means that the Shadow is super-low profile; it barely protrudes more than the quick release nut. Direct cable routing reduces the chance of the cable snagging on roots and rocks and fires off shifts...,100.00,USD,,2738637,334336,,Deore XT Shadow + Rear Derailleur (Long Cage),"Shimano's Deore XT Rear Derailleur uses cold-forged construction and cutting edge technology to deliver crisp shifting, real-world reliability, and trademark precision. Plus-type derailleurs use a...",115.99,CAD,,2738637,24284673#334336,1,False,"[-0.0452988707, -0.0547211058]",0,[1.0],1,1 (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1 ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330148,
+  ""id"": ""chatcmpl-78nDARYUb0NVN0y4cZZ9gVK4enBI5"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 86,
+    ""total_tokens"": 88
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Shimano XT M786 10sp Shadow+ Rear Derailleur - Black / SGS, product 2: Deore XT Shadow + Rear Derailleur (Long Cage)'}]"
+61,3568,614139,,Road Disc Sintered Brake Pads,Original equipment pads for no-compromise disc brake performance.- Pad Shape Number: 37,24.99,USD,,188533,46991752,Avid,"Avid SRAM - AVIDBRAKE PADS SINTERED/STEEL, (1 SET) - TRAIL/GUIDE:",,23.00,GBP,,183990,614139#46991752,0,True,"[-2.3861186504000003, 2.4341630936]",1,[0.0],0,"Yes,","{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""Yes,"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330149,
+  ""id"": ""chatcmpl-78nDBUxZLhviPXDT5eVLo9YVdWynz"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 92,
+    ""total_tokens"": 94
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Road Disc Sintered Brake Pads, product 2: Avid SRAM - AVIDBRAKE PADS SINTERED/STEEL, (1 SET) - TRAIL/GUIDE:'}]"
+62,1968,65301145,,32oz (946mL) Wide Mouth 2.0,"Fresh look for a fan favourite. Big enough for a whole day on the water or in the trails, our 32oz (946mL) Wide Mouth Bottle is made with professional-grade stainless steel and a wider opening for faster fill. We couldn’t think of a bottle more deserving of a refresh, so we’ve elevated the silhouette and simplified design without compromising one degree of performance. And our Color Last™ powder coat is dishwasher safe for even more convenience. Cold stays ice cold for 24 hours, and hot stayssteaming for 12 — just like always. Product Benefits Ideal size for all-day hydration Fits...",79.99,NZD,,489587,61213908,,Hydro Flask Hydration 32oz 2.0 Wide Black,W32TS001Hydration 32oz Wide Black,5.995E1,AUD,,36023,65301145#61213908,0,True,"[-2.6419377326999998, 2.7156653404]",1,[0.0],0,1 (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1 ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330149,
+  ""id"": ""chatcmpl-78nDBTOJ8nEYZHABhgsJBJ77cs2Mf"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 81,
+    ""total_tokens"": 83
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: 32oz (946mL) Wide Mouth 2.0, product 2: Hydro Flask Hydration 32oz 2.0 Wide Black'}]"
+63,1734,85552392,,Evans EC2S Clear Drum Heads,"DescriptionEvans™ EC2™ series features two plies of 7mil film with optimized attack, tone, length of sustain and ease of tuning for each size head. The Sound Shaping Technology (SST™) Edge Control ring mounted on the underside delivers an extremely well balanced and pre-EQ'd sound across the full kit by varying the size of the ring for each different head size.",1.899E1,USD,,949458,51590037,Evans,"Evans - EC2S Clear Tom Batter, 13\""",TT13EC2SEC2 SeriesClear13”,25.00,CAD,,3041830,85552392#51590037,0,True,"[-2.7220966816, 2.8139698505]",1,[0.0],0,1,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""stop"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330150,
+  ""id"": ""chatcmpl-78nDCWY93xtHRNpQYy05eeDIDdMd2"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 1,
+    ""prompt_tokens"": 73,
+    ""total_tokens"": 74
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Evans EC2S Clear Drum Heads, product 2: Evans - EC2S Clear Tom Batter, 13\\""'}]"
+64,1371,63053118,,Sigma 35mm f/1.4 DG HSM Art Lens,"The Sigma 35mm 1.4 DG HSM is a state of the art lens designed for full frame cameras but can also be used with APS-C sensors as well. The first addition to the Art category in Sigma’s Global Vision, the 35mm 1.4 DG HSM includes new features based around a unique lens concept and design. The 35mm is a staple focal length in the world of photography, and paired with Sigma technology, this lens can take artistic expression to the next level. The lens is equipped with technology including a Hyper Sonic Motor (HSM), floating internal focusing system, SLD and",6.9999E2,USD,,704991,38402834,,Sigma 35mm F1.4 DG HSM Nikon [ART],,4467.00,PLN,,900968,63053118#38402834,0,True,"[-0.4694570005, 0.2137340903]",1,[0.0],0,1,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""stop"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330151,
+  ""id"": ""chatcmpl-78nDD15eTS14lFp5U7Tdq9LS00Dkl"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 1,
+    ""prompt_tokens"": 83,
+    ""total_tokens"": 84
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Sigma 35mm f/1.4 DG HSM Art Lens, product 2: Sigma 35mm F1.4 DG HSM Nikon [ART]'}]"
+65,3356,66382246,,DDR4 32GB 3000 C15 Kingston Hyp K2,,153.23,,,1249448,16693470,,HyperX 32GB (2x16GB) 3000MHz CL15 Predator Black,,725,PLN,,1249448,66382246#16693470,1,False,"[3.1534581184, -3.582681179]",0,[1.0],1,1 -,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1 -"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330158,
+  ""id"": ""chatcmpl-78nDKi32ZGqDG0zdZaotFRbpD0jv5"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 87,
+    ""total_tokens"": 89
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: DDR4 32GB 3000 C15 Kingston Hyp K2, product 2: HyperX 32GB (2x16GB) 3000MHz CL15 Predator Black'}]"
+66,2877,63053118,,Sigma 35mm f/1.4 DG HSM Art Lens,"The Sigma 35mm 1.4 DG HSM is a state of the art lens designed for full frame cameras but can also be used with APS-C sensors as well. The first addition to the Art category in Sigma’s Global Vision, the 35mm 1.4 DG HSM includes new features based around a unique lens concept and design. The 35mm is a staple focal length in the world of photography, and paired with Sigma technology, this lens can take artistic expression to the next level. The lens is equipped with technology including a Hyper Sonic Motor (HSM), floating internal focusing system, SLD and",6.9999E2,USD,,704991,88215321,,Sigma 35mm f/1.4 DG HSM | Art - Nikon F Nikon Lenses (F mount) 340955,Sigma 35mm f/1.4 DG HSM | Art - Nikon F Nikon Lenses (F mount) 340955. 35mm f/1.4 DG HSM - Nikon Fit. Sigma. 340955. 085126340551,619,GBP,,900968,63053118#88215321,0,True,"[-4.3939194679, 4.6749410629]",1,[0.0],0,"Yes,","{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""Yes,"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330158,
+  ""id"": ""chatcmpl-78nDKEUVbIYwlKGQPlnNzKv7advp9"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 95,
+    ""total_tokens"": 97
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Sigma 35mm f/1.4 DG HSM Art Lens, product 2: Sigma 35mm f/1.4 DG HSM | Art - Nikon F Nikon Lenses (F mount) 340955'}]"
+67,2592,65301145,,32oz (946mL) Wide Mouth 2.0,"Fresh look for a fan favourite. Big enough for a whole day on the water or in the trails, our 32oz (946mL) Wide Mouth Bottle is made with professional-grade stainless steel and a wider opening for faster fill. We couldn’t think of a bottle more deserving of a refresh, so we’ve elevated the silhouette and simplified design without compromising one degree of performance. And our Color Last™ powder coat is dishwasher safe for even more convenience. Cold stays ice cold for 24 hours, and hot stayssteaming for 12 — just like always. Product Benefits Ideal size for all-day hydration Fits...",79.99,NZD,,489587,20511058,,Hydro Flask 32oz Drink Bottle,"Hydro Flask. 32oz.Sunflower.Product BenefitsVersatile, middle-of-the-road sizeTempShieldTMinsulation eliminates condensation and keeps beverages cold up to 24 hours and hot up to 12 hoursDurable 18/8 Pro-Grade Stainless Steel constructionBPA-Free and Phthalate-FreeCompatible withStandard Mouth InsulatedSport CapLifetime Warranty",6.495E1,AUD,,489587,65301145#20511058,1,False,"[3.2651302814, -3.7005729675]",0,[1.0],1,1 (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1 ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330159,
+  ""id"": ""chatcmpl-78nDL3A7zSnJsS8T2iY30YxoMvZGA"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 75,
+    ""total_tokens"": 77
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: 32oz (946mL) Wide Mouth 2.0, product 2: Hydro Flask 32oz Drink Bottle'}]"
+68,2785,55696124,Epson,Epson Premium Glossy Photo Paper A4 2x15 Bl. 255g,,14.52,EUR,,1601212,37238928,,Epson Premium Glossy Photo Paper - glossy photo paper - 15 sheet(s),Epson Premium Glossy Photo Paper - glossy photo paper - 15 sheet(s),13.00,GBP,,1601212,55696124#37238928,1,False,"[3.7535569668, -4.2207269669]",0,[1.0],1,1,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""stop"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330159,
+  ""id"": ""chatcmpl-78nDLMK7V308JXw2N05U7T1B5Jj39"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 1,
+    ""prompt_tokens"": 89,
+    ""total_tokens"": 90
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Epson Premium Glossy Photo Paper A4 2x15 Bl. 255g, product 2: Epson Premium Glossy Photo Paper - glossy photo paper - 15 sheet(s)'}]"
+69,266,44664998,,Brother HL-L6300DW Laser Printer - Monochrome - Duplex,,380.99,USD,,408446,24056155,,Brother Business Laser Printer Wireless Networking and Duplex Printer,"● Fast, high-quality printing.● USB 2.0 and Parallel interfaces.● Comprehensive application compatibility.● Flexible paper handlingFlexible paper handling.● Flexible paper handling.● Cost efficient output.● Automatic two-sided printing.● Outstanding customer support.",56700.00,NPR,,4560116,44664998#24056155,0,True,"[-4.1097679138, 4.4022879601]",1,[0.0],0,1 (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1 ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330160,
+  ""id"": ""chatcmpl-78nDMVaPpxzxHJUlc4l3iNzYExxDe"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 78,
+    ""total_tokens"": 80
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Brother HL-L6300DW Laser Printer - Monochrome - Duplex, product 2: Brother Business Laser Printer Wireless Networking and Duplex Printer'}]"
+70,3894,88682962,,Epson Fox Multipack 4 colori,Multipack 4 colori,48.56,EUR,,161548,92624064,,Epson Cartridge Inkjet Bundle (T1285),Original,360.00,DKK,,161548,88682962#92624064,1,False,"[3.7930731773, -4.2577838898]",0,[1.0],1,No.,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""No."",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330161,
+  ""id"": ""chatcmpl-78nDNEOOgSIM0hnpsDRLXnFj9Yt5x"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 75,
+    ""total_tokens"": 77
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Epson Fox Multipack 4 colori, product 2: Epson Cartridge Inkjet Bundle (T1285)'}]"
+71,428,59806836,,Standard Mouth Water Bottle with Flex Cap Lid,"Coffee and tea drinkers rejoice - lukewarm drinks are now a thing of the past! The Standard Mouth Hydro Flask withFlexcap Lid will keep your coffee and tea steaming hot for up to 12 hours, or your cold beverage icy cold for up to 24 hours.TheStandard Mouth features a water bottle opening at 1.91inches.Each Hydro Flask is hand cast from double wall vacuum insulated food grade 18/8 stainless steel, therefore they are BPA-Free and resistant to bacteria and odors.Double Wall Vacuum Insulated.Keeps beverages hot up to 12 hours.Keeps beverages cold up to 24 hours.BPA-Free.18/8 Stainless Steel.Signature Powder Coat Finish.Lifetime Warranty.",32.95,USD,,1446023,12784003,,21 oz Standard Mouth - Olive,"21 oz Standard Mouth Water BottleHydro FlaskKeep life moving with our 21 oz bottle and Standard Flex Cap. It stashes easily into a small shoulder bag, your pack's side pocket, or your car cup holder, and holds enough ice cold goodness to keep you going for hours without weighing you down.With TempShield double wall insulated technology, your favourite hydration flask full will stay super chilled for up to 24 hours or piping warm for up to 12.Specs:Size:21ozVolume:621mlMouth Diameter:1.91\""Diameter:2.87\""Height:9.4\""Weight:11.3 ozComes With:Standard Flex CapAlso Compatible With:Standard Mouth Sports Cap, Standard Flex BootAvailable in:TempShield®Hydro Flask's unique double walled insulation keeps your drink hot",2.715E1,GBP,,1446023,59806836#12784003,1,False,"[3.7069861889, -4.1643214226]",0,[1.0],1,Yes.,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""Yes."",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330161,
+  ""id"": ""chatcmpl-78nDNjyUexQy3J5YoPQ7RGJ6qwvhA"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 69,
+    ""total_tokens"": 71
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Standard Mouth Water Bottle with Flex Cap Lid, product 2: 21 oz Standard Mouth - Olive'}]"
+72,1290,95169379,,Sigma 50mm f/1.4 DG HSM Art,"Sigma 50mm f/1.4 DG HSM (Art)Front and rear lens capsLens hoodLens caseThe staple Sigma 50mm 1.4 DG HSM has been redesigned and reengineered to set a new standard for the Art line. With a large 1.4 aperture, the Sigma 50mm 1.4 prime lens is pro level performer for shooting everything including portrait photography, landscape photography, studio photography and street photography. A Hyper Sonic Motor (HSM) ensures quiet, smooth and accurate autofocusing and paired with Special Low Dispersion (SLD) glass and Super Multi-Layer coating, the 50mm 1.4 is a high performance lens for modern DSLR sensors. 13 elements in 8 groups",739.95,USD,,75956,32212233,,Sigma 50mm f/1.4 DG HSM | Art - Nikon F Nikon Lenses (F mount) 311955,Sigma 50mm f/1.4 DG HSM | Art - Nikon F Nikon Lenses (F mount) 311955. The Sigma 50mm f/1.4 DG HSM (Art) prime lens delivers superb image quality and performs to a very high standard in most types of photographic styles.. Sigma. 311955. 085126311551,569,GBP,,393711,95169379#32212233,0,True,"[-4.3957881927, 4.6707210541]",1,[0.0],0,Yes (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""Yes ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330178,
+  ""id"": ""chatcmpl-78nDes1ZrmVjjdFqWEiUMjc15vUyD"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 94,
+    ""total_tokens"": 96
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Sigma 50mm f/1.4 DG HSM Art, product 2: Sigma 50mm f/1.4 DG HSM | Art - Nikon F Nikon Lenses (F mount) 311955'}]"
+73,3958,60610853,DJI Consumer,DJI Mavic | Car Charger | Spare Part 6,Car Charger for Mavic Pro,55.00,EUR,,1430778,35521073,,DJI Mavic Air - Part 15 Travel Bag,"You can carry the Mavic Air and its accessories with this bag, which holds: 1 × aircraft, 1 × controller, 3 × batteries, 1 × smartphone, 1 × battery charging hub, 1 × charger, and smaller accessories such as cables.",11900,AUD,,1430778,60610853#35521073,1,False,"[3.7884557247, -4.2542467117000005]",0,[1.0],1,No.,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""No."",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330178,
+  ""id"": ""chatcmpl-78nDeJdQwFyPzkdopakxVmLJEjOCP"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 77,
+    ""total_tokens"": 79
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: DJI Mavic | Car Charger | Spare Part 6, product 2: DJI Mavic Air - Part 15 Travel Bag'}]"
+74,1258,51131711,,Daddario 12-53 Phosphor Bronze Light Acoustic Guitar Strings,"D'Addario Phosphor Bronze Acoustic Guitar strings are acclaimed worldwide for their superb, long-lasting tone. Phosphor Bronze was introduced to string mak",6.99,USD,,1297798,42493890,D'Addario,"D'Addario D'Addario XT Acoustic Phosphor Bronze, Medium, 13-56","D'Addario XTstrings are made to stay, with uncompromising performance that never fades away.",14.99,USD,,1456309,51131711#42493890,0,True,"[-4.396299839, 4.6775403023]",1,[0.0],0,No.,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""No."",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330183,
+  ""id"": ""chatcmpl-78nDjjFtbFUPXGHdZNeqkyndIXJAC"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 92,
+    ""total_tokens"": 94
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': ""product 1: Daddario 12-53 Phosphor Bronze Light Acoustic Guitar Strings, product 2: D'Addario D'Addario XT Acoustic Phosphor Bronze, Medium, 13-56""}]"
+75,1900,29941324,,HIKVISION 16CH TURBO DVR 16IP & 16 BNC,"Hikvision 16-Channel Hybrid DVR, up to 8MP resolution, up to 32ch IP",0.00,,,1336313,51670079,,Hikvision 16CH Turbo Full HD1080P DVR,- Hikvision Full HD 1080P Turbo 16 Channel DVR- Up to 16 Analog Or 24 network cameras can be connected- Free Mobile Application for mobile Surveillance- Free Shipping & Usually Ships within 3 Days- One Year WarrantyNote: HDD not included,450,AED,,4045323,29941324#51670079,0,True,"[-4.3439950943, 4.6351108551]",1,[0.0],0,"Yes,","{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""Yes,"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330184,
+  ""id"": ""chatcmpl-78nDkUw3MqW7OhHxBUp9bmSEI8RMU"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 85,
+    ""total_tokens"": 87
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: HIKVISION 16CH TURBO DVR 16IP & 16 BNC, product 2: Hikvision 16CH Turbo Full HD1080P DVR'}]"
+76,1239,79398825,,WD BLUE 250GB M.2 SSD DRIVE,"SPECIFICATIONSBrandWestern DigitalSeriesWD Blue SSDModelWDS250G2B0BInterfaceWD Blue SSD M.2 2280SATA III 6Gb/sPerformanceSequential ReadUp to 550 MB/sSequential WriteUp to 525 MB/sRandom Read95,000 IOPSRandom Write81,000 IOPSEndurance100 TBWPowerAverage Active Power52 mWMaximum Read Operating2200 mWMaximum Write Operating2250 mWSlumber56 mWDEVSLP5 - 7 mWReliabilityMTTFUp to 1.75M HoursEnvironmentalOperating Temperatures0°C - 70°CNon-Operating Temperatures-55°C - 85°COperating Vibrations5.0 gRMS, 10 - 2000 HzNon-Operating Vibrations4.9 gRMS, 7 - 800 HzShock1,500G @ 0.5 msec Half SineCertificationsFCC, UL, TUV, KC, BSMI, VCCI, MoroccoPhysical DimensionsSize2.23 x 22 x 80 mmWeight7±1 gWARRANTY 2YEARS",10350.00,LKR,,3065693,62156844,Western Digital,WD Blue 250GB PC SSD - SATA 6 Gb/s 2.5 Inch Solid State Drive -WDS250G1B0A,"With superior performance and a leader in reliability, the WD Blue SSD offers digital storage that is optimized for multi-tasking and ready to keep up with your high performance computing needs. Available in both 2.5''/7mm cased and M.2 2280 form factors and WD's Functional Integrity Testing Lab (FIT Lab), the WD Blue SSD is compatible with a wide range of computers, so you can be sure you are making the right choice. Combined with the free, downloadable WD SSD Dashboard and a 3-year limited warranty, you can confidently upgrade your system to the WD Blue SSD.",84.99,USD,,483248,79398825#62156844,0,True,"[-0.27456301450000004, 0.20556055010000002]",1,[0.0],0,"Yes,","{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""Yes,"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330184,
+  ""id"": ""chatcmpl-78nDkAm2yRGDfj5cbm1uGnHHChtZk"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 95,
+    ""total_tokens"": 97
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: WD BLUE 250GB M.2 SSD DRIVE, product 2: WD Blue 250GB PC SSD - SATA 6 Gb/s 2.5 Inch Solid State Drive -WDS250G1B0A'}]"
+77,3488,54971342,Asus,Asus ROG Strix RX5500XT O8G Gaming 8GB Graphics Card,"Stream Processors: 1408, Boost Clock: 1865 MHz, GDDR6, 128-bit Memory, Memory Clock: 14000Mhz, 3 x DisplayPort, 1 x HDMI, 3 Year Warranty",234.98,GBP,,1767558,24160286,,ASUS DUAL-RX5500XT-O8G-EVO Radeon - 8 GB,OC Edition: Boost Clock ~1865 MHz (OC Mode)/ ~1845Mhz (Gaming Mode)Axial-tech fan design features a smaller fan hub that facilitates longer blades and a barrier ring that increases downward air pressure.0dB Technology lets you enjoy light gaming in relative silence.IP5X dust resistance offers,319.95,CAD,,2326232,54971342#24160286,0,True,"[-3.7824151516, 4.0436367989]",1,[0.0],0,1 (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1 ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330185,
+  ""id"": ""chatcmpl-78nDlSIiOJBifScDCJKiOEgRcdGo8"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 90,
+    ""total_tokens"": 92
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Asus ROG Strix RX5500XT O8G Gaming 8GB Graphics Card, product 2: ASUS DUAL-RX5500XT-O8G-EVO Radeon - 8 GB'}]"
+78,3378,11247447,,Hibiscus 32oz. Wide Mouth Water Bottle,"Big enough for all-day hydration and easy sipping, Hydro Flask's32 oz Wide Mouth Bottle with Straw Lid is made with professional-grade stainless steel and a wider opening for faster fill. We couldn’t think of a bottle more deserving of a refresh, so we’ve elevated the silhouette and simplified design without compromising one degree of performance. And Hydro Flask'sColor Last™ powder coat is dishwasher safe for even more convenience. Cold stays ice cold for 24 hours, and hot stays wickedly hot for 12 — just like always.TempShield™Hydro Flask's unique double-wall vacuum insulation protects temperature for hours. Cold drinks stay icy cold",44.95,USD,,929657,68716864,HydroFlask,HydroFlask 32 oz. Wide Mouth Bottle w/ Flex Cap,"Big enough for a whole day in the backcountry, our 32 oz Wide Mouth bottle is made with professional-grade stainless steel and a wider opening for faster fill.",44.95,USD,,929657,11247447#68716864,1,False,"[1.0233552456, -1.2170300484]",0,[1.0],1,"No,","{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""No,"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330186,
+  ""id"": ""chatcmpl-78nDmzszHLDVk5WxxzEp24erjKNE3"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 79,
+    ""total_tokens"": 81
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Hibiscus 32oz. Wide Mouth Water Bottle, product 2: HydroFlask 32 oz. Wide Mouth Bottle w/ Flex Cap'}]"
+79,1813,24092458,,Apple AirPods with Charging Case / COMPARE ON Amazon $139,"Automatically on, automatically connected Easy setup for all your Apple devices Quick access to Siri by saying “Hey Siri” Double-tap to play or skip forward New Apple H1 headphone chip delivers faster wireless connection to your devices Charges quickly in the case Case can be charged using the Lightning connector",119.00,USD,,1223297,86558249,,Apple AirPods with Charging Case - (Brand New),"Version: 2nd Generation (2019 release) with charging case.Colour: WhiteIncludes 2 Apple Airpods, charging case and USB cable.Condition: Brand new and sealed in Apple retail packaging.Features:Quick access to Siri by saying “Hey Siri” or setting up double-tapDesigned by AppleDouble-tap to play or skip forwardCharges quickly in the caseSeamless switching between devicesAll electronics at Major Mobile UK are backed with a 2 year warranty!Our phones and accessories are brand new in original retail packaging with all original accessories included.We are currently offering FREE UK delivery on all orders!This takes 3-5 days. Need it quicker? At checkout you will have the option to",129.00,GBP,,767259,24092458#86558249,0,True,"[-2.0875241756, 2.0785927773]",1,[0.0],0,1.,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1."",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330190,
+  ""id"": ""chatcmpl-78nDqYZdyegxxalTQbWEBBDYqAVEa"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 80,
+    ""total_tokens"": 82
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Apple AirPods with Charging Case / COMPARE ON Amazon $139, product 2: Apple AirPods with Charging Case - (Brand New)'}]"
+80,2514,55727345,Apple,Apple AirPods 2 Boîtier Charge Sans Fil,,197.99,EUR,,1126552,32999585,,APPLE - AirPods 2 Med Wireless Charging Case,APPLE AirPods 2 Med Wireless Charging Case (MRXJ2ZM/A) - Type: Trådløst headset,2246.25,NOK,,1126552,55727345#32999585,1,False,"[3.7435553074, -4.2074980736]",0,[1.0],1,1 (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1 ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330190,
+  ""id"": ""chatcmpl-78nDqk9d07LR2cFN1nribpkAma2ux"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 77,
+    ""total_tokens"": 79
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Apple AirPods 2 Boîtier Charge Sans Fil, product 2: APPLE - AirPods 2 Med Wireless Charging Case'}]"
+81,938,62248973,Instax,Instax Fujifilm | Instax SQUARE Instant Film - Black Border (10 Exposures),,14.99,CAD,,1118780,60950283,,Fujifilm Instax Square Instant Film - 10 Photos,The Fujifilm Instax Square Instant Film is for use with the Fuji Instax Square SQ10 Camera. This pack of Fuji Instax Square film contains 10 photos and will produce fantastic mini images at 62x62mm on a film size of 86x72mm. You can also write on the white border with non water based pens.,11.99,GBP,,1457721,62248973#60950283,0,True,"[-4.3245024681, 4.6042141914]",1,[0.0],0,1 (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1 ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330191,
+  ""id"": ""chatcmpl-78nDrrosqLfp7NnTUjraw1x7NNK7q"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 85,
+    ""total_tokens"": 87
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Instax Fujifilm | Instax SQUARE Instant Film - Black Border (10 Exposures), product 2: Fujifilm Instax Square Instant Film - 10 Photos'}]"
+82,309,84159045,,GARMIN Fenix 5X Sapphire Edition 51mm Black,GARMIN Fenix 5X Sapphire Edition 51mm,"449,99€",EUR,,139209,22883953,Garmin,Garmin Fenix 5 Multisport GPS Watch 47mm Case Slate Grey Band,"Get More From Your Workout with Less on Your Wrist....The Garmin Fenix 5 Multisport GPS Watch is a premium multisport GPS watch with Elevate™ wrist heart rate technology. It has preloaded activity profiles for all of your sports and adventures. Put key stats at your fingertips with the performance widget that shows the effects and progress of your workouts. Connected features include smart notifications and automatic uploads to Garmin Connect™ online fitness community.For serious athletes and adventurers who want to do more, not wear more- fenix 5 is the perfect fit. It’s Garmins' premium multisport watch that offers full-size performance",699.99,AUD,,139209,84159045#22883953,1,False,"[3.2920117378000002, -3.7063121796000003]",0,[1.0],1,"No,","{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""No,"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330191,
+  ""id"": ""chatcmpl-78nDrmCSVB11nGecWzyfvDsvpb8Xz"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 84,
+    ""total_tokens"": 86
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: GARMIN Fenix 5X Sapphire Edition 51mm Black, product 2: Garmin Fenix 5 Multisport GPS Watch 47mm Case Slate Grey Band'}]"
+83,35,42121103,,T1204171704100 Tissot Seastar 1000 Quartz,"The Tissot Seastar 1000 merges style and performance without compromising either. The diving inspiration shapes both the appearance and the functionality of this watch. It maintains its performance to a pressure of 30 bar (300m/1'000ft), combining underwater sports and a preference for a sophisticated Swiss timepiece. The diving theme continues through elements such as a unidirectional bezel, a strap with a divers' safety buckle, plus luminescent hands and markings.Additional Information:Collection: T-SportCase Material: Stainless SteelCrystal: SapphireMovement: QuartzCase Size: 45.5 mmDial:blue gradientAnti-clockwise rotating bezel, ceramic bezel ring, Screw-down crown and case back, See-through case backWater Resistance: 30 bar (300 m) / (100",451.0,EUR,,1167881,38366111,,Tissot Seastar 1000 T120.417.11.051.00,,525.00,EUR,,1508649,42121103#38366111,0,True,"[-1.9376914501, 1.9234960079]",1,[0.0],0,Yes.,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""Yes."",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330192,
+  ""id"": ""chatcmpl-78nDsxzeqK5zXFByJCcVhnwopr4YD"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 89,
+    ""total_tokens"": 91
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: T1204171704100 Tissot Seastar 1000 Quartz, product 2: Tissot Seastar 1000 T120.417.11.051.00'}]"
+84,3621,52378852,Jabra,Jabra BIZ2300 2399-829-109 DUO USB Headset,"Jabra BIZ2300 2399-829-109 DUO USB Headset:Corded stereo headset that provides connectivity to all leading UC applications and softphonesAir shock microphone360 swiveling boom armHigh-definition sound with HD Voice and get crystal clear, intelligible communicationKevlar® reinforced cordBIZ2300 offers a Noise Canceling MicrophonePeakStop technology immediately removes potentially harmful loud soundsClear sound is essential for a good conversation not to mention call efficiency and accuracyBIZ2300 includes control unit call-managementJabra Software Applications, customize and control your audio device settings with Jabra’s software applicationsBIZ2300 DatasheetBIZ2300 Quick Start Guide",160.0,USD,,666306,77590975,,Jabra Biz 2300 USB UC Duo Binaural Headset2399-823-109,"****CONTACT US FOR SPECIAL PRICING 0FFERS****Provide your contact center agents with a lightweight, durable headset that delivers HD voice/wideband speaker performance and noise cancellation with the BIZ 2300 Microsoft Lync Duo Headset from Jabra. Worn over one's head, this headset is Microsoft Lync compatible and features dual stereo speakers. Additionally, the HD voice/wideband frequency response helps enable realistic reproduction of human voices on optimized digital telephony lines. The Jabra 2300 also features a noise-canceling microphone with standard vocal sensitivity, a built-in control unit, a swiveling, flexible boom arm for adjusting the position of the microphone, and foam earpiece cushions.Connect via",109.98,USD,,1086172,52378852#77590975,0,True,"[-0.3876793981, 0.2737585902]",1,[0.0],0,Yes (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""Yes ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330193,
+  ""id"": ""chatcmpl-78nDtynU23aj80MHDrZUZCvzKzCu0"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 92,
+    ""total_tokens"": 94
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Jabra BIZ2300 2399-829-109 DUO USB Headset, product 2: Jabra Biz 2300 USB UC Duo Binaural Headset2399-823-109'}]"
+85,2030,76749302,Tissot,Tissot Mens T-Sport Seastar Black Watch T120.407.17.041.00,SEASTAR SS BLK RUB SW BLU,595.00,GBP,,973707,84831884,Tissot,Tissot T-Sport T1204071104101 Seastar watch,Swiss made automatic diving watch,794.40,GBP,,3457955,76749302#84831884,0,True,"[-3.1363966465, 3.236770153]",1,[0.0],0,"Yes,","{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""Yes,"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330193,
+  ""id"": ""chatcmpl-78nDt7gT3WZhvH65O6xZYF6xaxue4"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 92,
+    ""total_tokens"": 94
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Tissot Mens T-Sport Seastar Black Watch T120.407.17.041.00, product 2: Tissot T-Sport T1204071104101 Seastar watch'}]"
+86,1054,21690819,Epson,B300 B500DN PRO4900 MAINTENANCE KIT,,20.62,GBP,,484404,21922988,Epson,Epson mainterance unit C13T619000 (T6190),maintenance tank,111.11,PLN,,484404,21690819#21922988,1,False,"[3.5751869678, -4.0400309563]",0,[1.0],1,No.,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""No."",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330194,
+  ""id"": ""chatcmpl-78nDurQrBL7aTIw6wJ0ZvfEQ3qGNh"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 84,
+    ""total_tokens"": 86
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: B300 B500DN PRO4900 MAINTENANCE KIT, product 2: Epson mainterance unit C13T619000 (T6190)'}]"
+87,3834,10519224,,Jabra Evolve 80 Duo MS USB Headset,Jabra Evolve 80 Duo MS USB Headset,227.17,GBP,,192208,59147821,,"Jabra EVOLVE 80 Headset - Skype for Business - Stereo - USB, Mini-phone - Wired - Over-the-head - Binaural - Circumaural - Noise Cancelling Microphone - SFB 7899-823-109","Jabra EVOLVE 80 Headset - Skype for Business - Stereo - USB, Mini-phone - Wired - Over-the-head - Binaural - Circumaural - Noise Cancelling Microphone - SFB 7899-823-109",4.4735E2,NZD,,192208,10519224#59147821,1,False,"[3.547924757, -4.0019745827]",0,[1.0],1,1 (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1 ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330194,
+  ""id"": ""chatcmpl-78nDukycwZngf5rFynnMdGhDVapGD"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 115,
+    ""total_tokens"": 117
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Jabra Evolve 80 Duo MS USB Headset, product 2: Jabra EVOLVE 80 Headset - Skype for Business - Stereo - USB, Mini-phone - Wired - Over-the-head - Binaural - Circumaural - Noise Cancelling Microphone - SFB 7899-823-109'}]"
+88,1475,86558249,,Apple AirPods with Charging Case - (Brand New),"Version: 2nd Generation (2019 release) with charging case.Colour: WhiteIncludes 2 Apple Airpods, charging case and USB cable.Condition: Brand new and sealed in Apple retail packaging.Features:Quick access to Siri by saying “Hey Siri” or setting up double-tapDesigned by AppleDouble-tap to play or skip forwardCharges quickly in the caseSeamless switching between devicesAll electronics at Major Mobile UK are backed with a 2 year warranty!Our phones and accessories are brand new in original retail packaging with all original accessories included.We are currently offering FREE UK delivery on all orders!This takes 3-5 days. Need it quicker? At checkout you will have the option to",129.00,GBP,,767259,49097388,,Apple In-Ear Wireless Airpods with Charging Case - White-MV7N2ZM/A,"Top features:- Completely wireless headphones sense when they're inside your ears- Tap either AirPod to activate Siri for hands-free control- Five hours listening on a single charge, or 24 hours via the charging case- Seamlessly switch listening between Apple devicesWireless headphonesThe AppleAirPods Wireless Bluetooth Headphonesprovide the same great audio performance of Apple EarPods without any wires to tangle you up.Apple AirPods sense when they are inside your ears, and pause audio when they're not so you don't have to worry about missing out on any of your favourite music when you take them out.Tap to activate SiriAirPodsare not just wireless,",1.79E2,EUR,,767259,86558249#49097388,1,False,"[3.320463419, -3.7387580872]",0,[1.0],1,"Yes,","{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""Yes,"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330195,
+  ""id"": ""chatcmpl-78nDv38LIZ008wwJSrLiuXCm662Ch"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 86,
+    ""total_tokens"": 88
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Apple AirPods with Charging Case - (Brand New), product 2: Apple In-Ear Wireless Airpods with Charging Case - White-MV7N2ZM/A'}]"
+89,1519,1928711,Crucial,Memoire DDR3 Crucial DDR3 8 Go 1600 MHz ECC CL11,Memoire DDR3 Crucial DDR3 8 Go 1600 MHz ECC CL11,108.50,EUR,,1026272,60546106,https://www.leadersystems.com.au/Images/MECS3-1X8G1600E.jpg,Crucial 8GB (1x8GB) DDR3L UDIMM 1600MHz ECC Unbuffered Dual Ranked Single Stick Server Desktop PC Memory RAM,Crucial 8GB (1x8GB) DDR3L UDIMM 1600MHz ECC Unbuffered Dual Ranked Single Stick Server Desktop PC...,201.0,AUD,,1026272,1928711#60546106,1,False,"[3.6407861710000002, -4.121723175]",0,[1.0],1,"Yes,","{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""Yes,"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330195,
+  ""id"": ""chatcmpl-78nDvTdVebugkw2Csamhj7fbynKwr"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 106,
+    ""total_tokens"": 108
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Memoire DDR3 Crucial DDR3 8 Go 1600 MHz ECC CL11, product 2: Crucial 8GB (1x8GB) DDR3L UDIMM 1600MHz ECC Unbuffered Dual Ranked Single Stick Server Desktop PC Memory RAM'}]"
+90,4073,12470959,Omega,Seamaster Planet Ocean 600 M Omega Co-Axial Chronograph 232.30.46.51.01.002,"It was with OMEGA’s maritime legacy in mind that the brand launched its Planet Ocean line in 2005. The stylish OMEGA Seamaster Planet Ocean 600M pays homage to OMEGA’s dive watch heritage.This model, with its scratch-resistant sapphire crystal, features a black dial with a small seconds dial, a date window and a central chronograph hand. Sixty-minute and 12-hour counters are found on the same dial at the 3 o’clock position, allowing for intuitive reading of the elapsed time. The orange unidirectional rotating divers’ bezel is mounted on a 45.5 mm stainless steel case on a stainless steel bracelet.The OMEGA Seamaster","8,000.00",USD,,5409130,32150368,Omega,Seamaster Planet Ocean 45mm in Steel,Seamaster Planet Ocean 45mm in Steel Steel on Bracelet with Black Dial,5700,USD,,5409130,12470959#32150368,1,False,"[3.7729282379, -4.241549015]",0,[1.0],1,Yes (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""Yes ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330196,
+  ""id"": ""chatcmpl-78nDwpeN8AvpKrzQYoMihVerGr300"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 89,
+    ""total_tokens"": 91
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Seamaster Planet Ocean 600 M Omega Co-Axial Chronograph 232.30.46.51.01.002, product 2: Seamaster Planet Ocean 45mm in Steel'}]"
+91,2377,48014318,,"APC Smart-UPS 1000VA/700W line interactive LCD RM 2U 230V with SmartConnect, 3 years warranty for UPS, only 2 years warranty for","UPS APC Smart-UPS SMT line-interactive / sinusoidala 1000VA / 700W 4conectori C13 rackabil 2U, baterie APCRBC132, optional extindere garantie cu 1/3 ani (WBEXTWAR1YR-SP-03/WBEXTWAR3YR-SP-03)",3500.4802,RON,,91557,90174187,,APC Smart-UPS SRT 10000VA 230V,"High density, double-conversion on-line power protection with scalable runtime",10630.6,AUD,,1284659,48014318#90174187,0,True,"[-2.4279716015, 2.4746713638]",1,[0.0],0,No.,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""No."",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330196,
+  ""id"": ""chatcmpl-78nDweRJ6SF1yhJsU7nRXWIvGcPx7"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 105,
+    ""total_tokens"": 107
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: APC Smart-UPS 1000VA/700W line interactive LCD RM 2U 230V with SmartConnect, 3 years warranty for UPS, only 2 years warranty for, product 2: APC Smart-UPS SRT 10000VA 230V'}]"
+92,1243,46639696,,Brother HL-L8360CDW (A4) Wireless Colour Laser Printer,"Increase productivity levelsProductivity is increased significantly thanks to the fast print speeds of up to 31ppm in colour and mono.Maximise your efficiency with built-in wireless IEEE 802.11b/g/n and ethernet 10Base-T/100Base-TX/1000Base-T.Easily print from your mobile device, using Brother’s iPrint&Scan, Brother print service plugin for Android, Google Cloud Print 2.0, Mopria and AirPrint.Outstanding paper handling options with a standard paper capacity of 300 sheets expandable to 2,380.Meeting security challengesModern businesses demand the highest levels of security. With Secure Function Lock 3.0, Active Directory Authentication, Internet Protocol Security (IPsec), 802.1x and Secure Print, you can be confident that your documents are safe and",3.8129E2,GBP,,323596,24056155,,Brother Business Laser Printer Wireless Networking and Duplex Printer,"● Fast, high-quality printing.● USB 2.0 and Parallel interfaces.● Comprehensive application compatibility.● Flexible paper handlingFlexible paper handling.● Flexible paper handling.● Cost efficient output.● Automatic two-sided printing.● Outstanding customer support.",56700.00,NPR,,4560116,46639696#24056155,0,True,"[-2.9072926044000003, 3.0122413635]",1,[0.0],0,Yes.,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""Yes."",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330197,
+  ""id"": ""chatcmpl-78nDxnb1wGk5SgIo8m4Z60E1HLHHi"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 79,
+    ""total_tokens"": 81
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Brother HL-L8360CDW (A4) Wireless Colour Laser Printer, product 2: Brother Business Laser Printer Wireless Networking and Duplex Printer'}]"
+93,2239,20278553,Kingston,Thẻ Nhớ Kingston Canvas Select 128GB microSHDC UHS-I Class 10 + SD Adapter (SDCS/128GB),Kingston,0,VND,,854253,11223612,,MEM MICRO SDXC 128GB KINGSTON CANVAS SELECT+ADAPT,MEM MICRO SDXC 128GB KINGSTON CANVAS SELECT+ADAPT CL10 / R: 100MB/sW:85MB/s SDCS2/128GB,15.37,EUR,,27477,20278553#11223612,0,True,"[-4.3793911934, 4.6650676727]",1,[0.0],0,1 (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1 ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330197,
+  ""id"": ""chatcmpl-78nDxgX4UOpM57n4GZ6DGrIaBkD5i"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 99,
+    ""total_tokens"": 101
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Thẻ Nhớ Kingston Canvas Select 128GB microSHDC UHS-I Class 10 + SD Adapter (SDCS/128GB), product 2: MEM MICRO SDXC 128GB KINGSTON CANVAS SELECT+ADAPT'}]"
+94,3392,51060838,,Monochrome Ribbon Zebra ZXP Series 1 Load-N-Go - K - 1000 prints,Monochrome Ribbon Black monochrome ribbon Cleaning roller included 1000 prints per roll Zebra Monochrome Ribbon is for use with ZXP Series 1 card printers,0.00,USD,,1542544,21556335,,Zebra 800033-801 Black Monochrome Ribbon for ZXP Series 3 Printers - 1000 Prints,"Zebra K Black Monochrome Ribbon ZXP Series 3 - 1000 prints/rollThe Zebra 800033-801 Black Resin Ribbon is a Monochrome (single-color) ribbon. Monochrome ribbons are used primarily for line art, text and barcodes.Zebra ribbons are printer specific. To maximize card quality and your Zebra printer's life expectancy and durability, use only genuine Zebra ribbons.Additional InformationPanels: Black Resin MonochromePrints: 1000For single sided card printingSupported Printer: Zebra ZXP Series 3",18.13,USD,,163499,51060838#21556335,0,True,"[-4.1408891678, 4.4325938225]",1,[0.0],0,0.,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""0."",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330198,
+  ""id"": ""chatcmpl-78nDyORmkTnOO4GX3poXykFHGDYDP"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 99,
+    ""total_tokens"": 101
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Monochrome Ribbon Zebra ZXP Series 1 Load-N-Go - K - 1000 prints, product 2: Zebra 800033-801 Black Monochrome Ribbon for ZXP Series 3 Printers - 1000 Prints'}]"
+95,2820,31581824,SHIMANO,SPD-SL SH 11 - tacchette,The Shimano SM-SH11 cleats serve as a connection between shoe and pedal. Shimano pedals and cleats are designed for use in combination with each other and are perfectly adapted to ensure a safe and efficient power transfer.· For Shimano SPD-SL pedals and compatible road shoes· With ± 3° angular float· Centre pivot floating· 1 pair incl. screws and spacersHerstellernr.: Y-42U98010,15.33,EUR,,532781,75286119,Shimano,"Shimano BICYCLE CHAIN,CN-HG901-11,QL 11-SPD(RD/MTB/E-BIKE)QUICK-LNK",,65.99,CAD,,1037461,31581824#75286119,0,True,"[-4.3649616241, 4.6570587158]",1,[0.0],0,No.,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""No."",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330198,
+  ""id"": ""chatcmpl-78nDyJLFaHT2cKAo07VYztKWNUEV7"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 98,
+    ""total_tokens"": 100
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: SPD-SL SH 11 - tacchette, product 2: Shimano BICYCLE CHAIN,CN-HG901-11,QL 11-SPD(RD/MTB/E-BIKE)QUICK-LNK'}]"
+96,4223,6002122,,LOGITECH - STEREO HEADSET H151 ANALOG - EMEAIN ACCS,LOGITECH STEREO HEADSET H151 ANALOG - EMEAIN ACCS (981-000589) - TYPE: Wired Headset,,,,122031,31273059,Logitech,Logitech Logitech Stereo Headset H151 3.5mm Aux TRRS,,19.95,USD,,24792,6002122#31273059,0,True,"[-4.3757534027, 4.6587324142]",1,[0.0],0,1 (,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1 ("",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330199,
+  ""id"": ""chatcmpl-78nDzS7P318odqn3IjaO3JTtwwcfm"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 90,
+    ""total_tokens"": 92
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: LOGITECH - STEREO HEADSET H151 ANALOG - EMEAIN ACCS, product 2: Logitech Logitech Stereo Headset H151 3.5mm Aux TRRS'}]"
+97,2073,393407,Audemars Piguet,Audemars Piguet Royal Oak Chronograph,Audemars Piguet Royal Oak,36560,USD,,607611,98604797,Audemars Piguet,Audemars Piguet Royal Oak Chronograph Watch - 26331ST.OO.1220ST.02,"41mm stainless steel case, 11mm thick, screw-locked crown, glareproofed sapphire crystal, black dial with \""Grande Tapisserie\"" pattern, silver-toned counters, white gold applied hour-markers and Royal Oak hands with luminescent coating, Calibre 2385 self-winding movement with chronograph, hours, minutes, small seconds, date, approximately 40 hours of power reserve, stainless steel bracelet, AP folding buckle. Water resistant to 50 meters.",32395.00,USD,,31594,393407#98604797,0,True,"[-4.1834125519, 4.471534729]",1,[0.0],0,1,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""stop"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""1"",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330200,
+  ""id"": ""chatcmpl-78nE0DzaWdsfdb5d3AeeKYuxk7Y37"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 1,
+    ""prompt_tokens"": 86,
+    ""total_tokens"": 87
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Audemars Piguet Royal Oak Chronograph, product 2: Audemars Piguet Royal Oak Chronograph Watch - 26331ST.OO.1220ST.02'}]"
+98,3917,89292552,,Shimano SPD SL Cleat Set,"Shimano cleats come in 3 different colours these days. The latest version is blue, which hasn’t been around for long but is definitely worth considering...",39.95,AUD,,431550,75045785,,"PEDAL, PD-RS500, SPD-SL, W/CLEAT",Lighter spring tension optimized for beginner ridersLarger entry target for easier engagementExtra-wide platform transfers pedaling power efficiently,60,USD,,3789862,89292552#75045785,0,True,"[-3.1417820454, 3.3016252518]",1,[0.0],0,Yes.,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""Yes."",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330200,
+  ""id"": ""chatcmpl-78nE09aQehpcRBaKLKO0Kio0IKTAl"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 77,
+    ""total_tokens"": 79
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: Shimano SPD SL Cleat Set, product 2: PEDAL, PD-RS500, SPD-SL, W/CLEAT'}]"
+99,1910,10830960,,SANDISK EXTREME SDXC 128GB150/70 MB/s V30 UHS-I U3 - SDSDXV5-128G-GNCIN,,151.98,PLN,,2427670,6664354,sandisk,SanDisk Extreme Pro 128 GB USB 3.0 Flash Drive,SanDisk Extreme PRO 128 GB USB 3.0Certified Refurbished by SANDISK | 12 months warranty! Pro-grade speed transfers data up to 60x faster than standard USB 2.0 drivesTransfer a full-length movie to the drive in secondsTransfer 1000 photos in less than 35 secondsUp to 260 MB/s read speeds and 240 MB/s write speedsTransfer a Movie in SecondsThe SanDisk Extreme PRO USB 3.0 Flash Drive lets you transfer a full-length movie in seconds with read speeds of up to 260 MB/sHigh Capacity Drive That Keeps You EntertainedWith up to 128 GB of storage you can hold all your favourite media on the,49.90,GBP,,79238,10830960#6664354,0,True,"[-1.4274802208000001, 1.4668471813]",1,[0.0],0,0.,"{
+  ""choices"": [
+    {
+      ""finish_reason"": ""length"",
+      ""index"": 0,
+      ""message"": {
+        ""content"": ""0."",
+        ""role"": ""assistant""
+      }
+    }
+  ],
+  ""created"": 1682330201,
+  ""id"": ""chatcmpl-78nE1xKec4mEMmkmuGVYEscAqu3Tw"",
+  ""model"": ""gpt-3.5-turbo-0301"",
+  ""object"": ""chat.completion"",
+  ""usage"": {
+    ""completion_tokens"": 2,
+    ""prompt_tokens"": 102,
+    ""total_tokens"": 104
+  }
+}","[{'role': 'system', 'content': 'You are a helpful assistant that tries to tell if two products are the same. Only answer yes or no. 0 means no, 1 means yes.'}, {'role': 'user', 'content': 'product 1: SANDISK EXTREME SDXC 128GB150/70 MB/s V30 UHS-I U3 - SDSDXV5-128G-GNCIN, product 2: SanDisk Extreme Pro 128 GB USB 3.0 Flash Drive'}]"
