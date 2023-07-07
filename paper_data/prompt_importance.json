@@ -1,0 +1,169 @@
+[
+    {
+        "model": "CHAT-GPT",
+        "question": [
+            {
+                "role": "system",
+                "content": "You are taking part in a benchmark that tries to measure your performance at entity matching. You should determine if two products are the exact same. Two products are only the same if all attributes match! Only answer yes or no."
+            },
+            {
+                "role": "user",
+                "content": "product 1: Pen Drive SanDisk 64GB Cruzer Glide USB 2.0 it costs: 9,86 EUR, product 2: SanDisk 64GB SDIX30N-064G-GN6NN USB 3.0 Flash Drive 35.85 USD"
+            }
+        ],
+        "accuracy": 0.62,
+        "precision": 1.0,
+        "recall": 0.02564102564102564,
+        "f1": 0.05,
+        "promptID": 0
+    },
+    {
+        "model": "CHAT-GPT",
+        "question": [
+            {
+                "role": "system",
+                "content": "You are taking part in a benchmark that tries to measure your performance at entity matching. You should determine if two products are the exact same. Two products are only the same if all attributes match! Only answer yes or no."
+            },
+            {
+                "role": "user",
+                "content": "product 1: Pen Drive SanDisk 64GB Cruzer Glide USB 2.0, product 2: SanDisk 64GB SDIX30N-064G-GN6NN USB 3.0 Flash Drive"
+            }
+        ],
+        "accuracy": 0.74,
+        "precision": 0.8823529411764706,
+        "recall": 0.38461538461538464,
+        "f1": 0.5357142857142858,
+        "promptID": 1
+    },
+    {
+        "model": "CHAT-GPT",
+        "question": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant that tries to tell if two products are the same. Two products are only the same if all attributes match! Only answer yes or no."
+            },
+            {
+                "role": "user",
+                "content": "product 1: Pen Drive SanDisk 64GB Cruzer Glide USB 2.0 it costs: 9,86 EUR, product 2: SanDisk 64GB SDIX30N-064G-GN6NN USB 3.0 Flash Drive 35.85 USD"
+            }
+        ],
+        "accuracy": 0.58,
+        "precision": 0.36363636363636365,
+        "recall": 0.10256410256410256,
+        "f1": 0.16,
+        "promptID": 2
+    },
+    {
+        "model": "CHAT-GPT",
+        "question": [
+            {
+                "role": "system",
+                "content": "You are taking part in a benchmark that tries to measure your performance at entity matching. You should determine if two products are the exact same. Two products are only the same if all attributes match! Only answer yes or no."
+            },
+            {
+                "role": "user",
+                "content": "product 1: Pen Drive SanDisk 64GB Cruzer Glide USB 2.0, product 2: SanDisk 64GB SDIX30N-064G-GN6NN USB 3.0 Flash Drive - are these the same product?"
+            }
+        ],
+        "accuracy": 0.73,
+        "precision": 0.7727272727272727,
+        "recall": 0.4358974358974359,
+        "f1": 0.5573770491803278,
+        "promptID": 3
+    },
+    {
+        "model": "CHAT-GPT",
+        "question": [
+            {
+                "role": "user",
+                "content": "Do the following two product decriptions match. Answer with yes or no. product 1: Pen Drive SanDisk 64GB Cruzer Glide USB 2.0, product 2: SanDisk 64GB SDIX30N-064G-GN6NN USB 3.0 Flash Drive"
+            }
+        ],
+        "accuracy": 0.75,
+        "precision": 0.6296296296296297,
+        "recall": 0.8717948717948718,
+        "f1": 0.7311827956989246,
+        "promptID": 4
+    },
+    {
+        "model": "GPT4All",
+        "question": "Do the following two product decriptions match. Answer with yes or no. product 1: Pen Drive SanDisk 64GB Cruzer Glide USB 2.0, product 2: SanDisk 64GB SDIX30N-064G-GN6NN USB 3.0 Flash Drive",
+        "accuracy": 0.29,
+        "precision": 0.21428571428571427,
+        "recall": 0.3076923076923077,
+        "f1": 0.25263157894736843,
+        "promptID": 4
+    },
+    {
+        "model": "Aleph Alpha",
+        "question": "Do the following two product decriptions match. Answer with yes or no. product 1: Pen Drive SanDisk 64GB Cruzer Glide USB 2.0, product 2: SanDisk 64GB SDIX30N-064G-GN6NN USB 3.0 Flash Drive",
+        "accuracy": 0.05,
+        "precision": 0.07575757575757576,
+        "recall": 0.1282051282051282,
+        "f1": 0.09523809523809525,
+        "promptID": 4
+    },
+    {
+        "model": "CHAT-GPT",
+        "question": [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant that tries to tell if two products are the same. Two products are only the same if all attributes match! Only answer yes or no."
+            },
+            {
+                "role": "user",
+                "content": "product 1: Pen Drive SanDisk 64GB Cruzer Glide USB 2.0, product 2: SanDisk 64GB SDIX30N-064G-GN6NN USB 3.0 Flash Drive"
+            }
+        ],
+        "accuracy": 0.71,
+        "precision": 0.6923076923076923,
+        "recall": 0.46153846153846156,
+        "f1": 0.553846153846154,
+        "promptID": 5
+    },
+    {
+        "model": "GPT4All",
+        "question": "You are a helpful assistant that tries to tell if two products are the same. Two products are only the same if all attributes match! Only answer yes or no. product 1: Pen Drive SanDisk 64GB Cruzer Glide USB 2.0, product 2: SanDisk 64GB SDIX30N-064G-GN6NN USB 3.0 Flash Drive",
+        "accuracy": 0.23,
+        "precision": 0.16071428571428573,
+        "recall": 0.23076923076923078,
+        "f1": 0.18947368421052632,
+        "promptID": 5
+    },
+    {
+        "model": "CHAT-GPT",
+        "question": [
+            {
+                "role": "system",
+                "content": "Are these two products the same?"
+            },
+            {
+                "role": "user",
+                "content": " product 1: Pen Drive SanDisk 64GB Cruzer Glide USB 2.0, product 2: SanDisk 64GB SDIX30N-064G-GN6NN USB 3.0 Flash Drive"
+            }
+        ],
+        "accuracy": 0.75,
+        "precision": 0.6842105263157895,
+        "recall": 0.6666666666666666,
+        "f1": 0.6753246753246753,
+        "promptID": 6
+    },
+    {
+        "model": "GPT4All",
+        "question": "Are these two products the same? product 1: Pen Drive SanDisk 64GB Cruzer Glide USB 2.0, product 2: SanDisk 64GB SDIX30N-064G-GN6NN USB 3.0 Flash Drive",
+        "accuracy": 0.34,
+        "precision": 0.2,
+        "recall": 0.23076923076923078,
+        "f1": 0.21428571428571427,
+        "promptID": 6
+    },
+    {
+        "model": "RoBERTa - benchmark",
+        "question": "all",
+        "accuracy": 0.84,
+        "precision": 0.7804878048780488,
+        "recall": 0.8205128205128205,
+        "f1": 0.8,
+        "promptID": "-"
+    }
+]

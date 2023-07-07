@@ -1,0 +1,137 @@
+[
+    {
+        "model": "gpt4all",
+        "question": "Do the following two product decriptions match. Answer with yes or no. product 1: Maxxis Maxxis Minion DHR2 29 x 2.3 Folding Bead, product 2: Maxxis Minion DHR II 3C MaxxTerra/DD TR 29\\' Tire - 29 x 2.3\\' (Folding Bead)",
+        "accuracy": 0.35,
+        "precision": 0.25,
+        "recall": 0.3333333333333333,
+        "f1": 0.28571428571428575,
+        "correct": 35,
+        "incorrect": 29, 
+        "invalid_responses": 36,
+        "benchmark": "random"
+    },
+    {
+        "model": "CHAT-GPT",
+        "question": [
+            {
+                "role": "system",
+                "content": "Do the following two product decriptions match. Answer with yes or no."
+            },
+            {
+                "role": "user",
+                "content": " product 1: Maxxis Maxxis Minion DHR2 29 x 2.3 Folding Bead, product 2: Maxxis Minion DHR II 3C MaxxTerra/DD TR 29\\' Tire - 29 x 2.3\\' (Folding Bead)"
+            }
+        ],
+        "accuracy": 0.87,
+        "precision": 0.7708333333333334,
+        "recall": 0.9487179487179487,
+        "f1": 0.8505747126436781,
+        "correct": 87,
+        "incorrect": 13, 
+        "invalid_responses": 0,
+        "benchmark": "random"
+    },
+    {
+        "model": "aleph_alpha",
+        "question": "Do the following two product decriptions match. Answer with yes or no. product 1: Maxxis Maxxis Minion DHR2 29 x 2.3 Folding Bead, product 2: Maxxis Minion DHR II 3C MaxxTerra/DD TR 29\\' Tire - 29 x 2.3\\' (Folding Bead)",
+        "accuracy": 0.08,
+        "precision": 0.11594202898550725,
+        "recall": 0.20512820512820512,
+        "f1": 0.14814814814814814,
+        "correct": 8,
+        "incorrect": 10, 
+        "invalid_responses": 82,
+        "benchmark": "random"
+    },
+    {
+        "model": "gpt4all",
+        "question": "Do the following two product decriptions match. Answer with yes or no. product 1: Pen Drive SanDisk 64GB Cruzer Glide USB 2.0, product 2: SanDisk 64GB SDIX30N-064G-GN6NN USB 3.0 Flash Drive",
+        "accuracy": 0.29,
+        "precision": 0.21428571428571427,
+        "recall": 0.3076923076923077,
+        "f1": 0.25263157894736843,
+        "correct": 29,
+        "incorrect": 27, 
+        "invalid_responses": 44,
+        "benchmark": "medium"
+    },
+    {
+        "model": "CHAT-GPT",
+        "question": [
+            {
+                "role": "system",
+                "content": "Do the following two product decriptions match. Answer with yes or no."
+            },
+            {
+                "role": "user",
+                "content": " product 1: Pen Drive SanDisk 64GB Cruzer Glide USB 2.0, product 2: SanDisk 64GB SDIX30N-064G-GN6NN USB 3.0 Flash Drive"
+            }
+        ],
+        "accuracy": 0.77,
+        "precision": 0.6538461538461539,
+        "recall": 0.8717948717948718,
+        "f1": 0.7472527472527474,
+        "correct": 77,
+        "incorrect": 23, 
+        "invalid_responses": 0,
+        "benchmark": "medium"
+    },
+    {
+        "model": "aleph_alpha",
+        "question": "Do the following two product decriptions match. Answer with yes or no. product 1: Pen Drive SanDisk 64GB Cruzer Glide USB 2.0, product 2: SanDisk 64GB SDIX30N-064G-GN6NN USB 3.0 Flash Drive",
+        "accuracy": 0.05,
+        "precision": 0.07575757575757576,
+        "recall": 0.1282051282051282,
+        "f1": 0.09523809523809525,
+        "correct": 5,
+        "incorrect": 10, 
+        "invalid_responses": 85,
+        "benchmark": "medium"
+    },
+    {
+        "model": "gpt4all",
+        "question": "Do the following two product decriptions match. Answer with yes or no. product 1: TAG Heuer Monaco Chronograph Calibre 11 Automatic, product 2: TAG Heuer Men's Special Edition Heuer Monaco Watch",
+        "accuracy": 0.21,
+        "precision": 0.13114754098360656,
+        "recall": 0.23529411764705882,
+        "f1": 0.16842105263157897,
+        "correct": 21,
+        "incorrect": 27, 
+        "invalid_responses": 52,
+        "benchmark": "challenging"
+    },
+    {
+        "model": "CHAT-GPT",
+        "question": [
+            {
+                "role": "system",
+                "content": "Do the following two product decriptions match. Answer with yes or no."
+            },
+            {
+                "role": "user",
+                "content": " product 1: TAG Heuer Monaco Chronograph Calibre 11 Automatic, product 2: TAG Heuer Men's Special Edition Heuer Monaco Watch"
+            }
+        ],
+        "accuracy": 0.5,
+        "precision": 0.38235294117647056,
+        "recall": 0.7647058823529411,
+        "f1": 0.5098039215686274,
+        "correct": 50,
+        "incorrect": 50, 
+        "invalid_responses": 0,
+        "benchmark": "challenging"
+    },
+    {
+        "model": "aleph_alpha",
+        "question": "Do the following two product decriptions match. Answer with yes or no. product 1: TAG Heuer Monaco Chronograph Calibre 11 Automatic, product 2: TAG Heuer Men's Special Edition Heuer Monaco Watch",
+        "accuracy": 0.04,
+        "precision": 0.04411764705882353,
+        "recall": 0.08823529411764706,
+        "f1": 0.05882352941176471,
+        "correct": 4,
+        "incorrect": 4, 
+        "invalid_responses": 92,
+        "benchmark": "challenging"
+    }
+]
