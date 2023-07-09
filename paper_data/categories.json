@@ -1,0 +1,32 @@
+{
+    "easy": {
+        "Cycling Equipment": 6,
+        "Office Supplies": 18,
+        "Electronics": 59,
+        "Watches": 11,
+        "Computer Hardware": 16,
+        "Outdoors": 4,
+        "Trading Card Games": 2,
+        "Musical Instruments": 4,
+        "Photography Equipment": 6
+    },
+    "middle": {
+        "Electronics": 71,
+        "Watches": 24,
+        "Musical Instruments": 4,
+        "Cycling Equipment": 10,
+        "Office Supplies": 15,
+        "Computer Hardware": 14,
+        "Photography Equipment": 7
+    },
+    "hard": {
+        "Watches": 26,
+        "Electronics": 56,
+        "Musical Instruments": 10,
+        "Computer Hardware": 4,
+        "Photography Equipment": 16,
+        "Cycling Equipment": 16,
+        "Office Supplies": 20,
+        "Outdoors": 10
+    }
+}
